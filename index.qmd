@@ -2,6 +2,6 @@
 title: "Shortcourse on Reservoir Geomechanics"
 ---
 
-This is a Quarto website.
+I will put links to the lecture material below.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
