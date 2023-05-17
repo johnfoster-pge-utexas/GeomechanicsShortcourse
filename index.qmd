@@ -4,4 +4,6 @@ title: "Shortcourse on Reservoir Geomechanics"
 
 I will put links to the lecture material below.
 
+[Lecture 1 - Introduction](./slides/Lecture1-Introduction_Petroleum_Geomechanics.qmd)
+
 

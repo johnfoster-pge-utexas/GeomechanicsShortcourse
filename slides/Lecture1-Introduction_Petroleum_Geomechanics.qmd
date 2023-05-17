@@ -1,0 +1,39 @@
+---
+format: 
+  revealjs:
+    navigation-mode: grid
+    touch: true
+    footer: "Shortcourse on Reservoir Geomechancis - John T. Foster - May 2023"
+
+---
+
+## Why is stress important in petroleum engineering?
+
+---
+
+
+### Wellbore failure occurs because the stress around the well exceeds the strength of the rock.
+
+![](images/wellbore.png){width=150 fig-align="center"}
+
+&copy; American Geophysical Union, &copy; Centek Publishing [Image Source](http://petrowiki.org/images/thumb/b/b0/Devol2_1102final_Page_051_Image_0001.png/300px-Devol2_1102final_Page_051_Image_0001.png)
+
+---
+
+### Faults will slip when the ratio of shear to normal stress on the fault exceeds its frictional strength.
+
+![](images/slip.png){width=150 fig-align="center"}
+
+&copy; USGS [Image Source]('http://geomaps.wr.usgs.gov/parks/deform/normalfault.gif')
+
+---
+
+### Reservior depletion causes changes in the stress state at depth that can be beneficial, or detrimental, to production.
+
+![](images/depletion.png){width=150 fig-align="center"}
+
+&copy; IESL [Image Source](http://iesl-global.com/wp-content/uploads/2014/06/ReservoirPressureIllustration.jpg)
+
+::: notes
+Image is of a simulation that is used to identify changes in porosity and/or permeability due to pore pressure depletion.
+:::
