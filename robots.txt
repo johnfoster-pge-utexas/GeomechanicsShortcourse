@@ -1,1 +1,1 @@
-Sitemap: https://johnfoster-pge-utexas.github.io/GeomechanicsShortcourse/sitemap.xml
+Sitemap: https://github.com/johnfoster-pge-utexas/GeomechanicsShortcourse/sitemap.xml
