@@ -3,7 +3,7 @@ format:
   revealjs:
     navigation-mode: grid
     touch: true
-    footer: "Shortcourse on Reservoir Geomechancis - John T. Foster - May 2023"
+    footer: "Shortcourse on Reservoir Geomechanics - John T. Foster - May 2023"
 
 ---
 
