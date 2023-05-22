@@ -10,5 +10,7 @@ title: "Course Materials"
 
 [Lecture 3 - Linear Algebra](./slides/Lecture3-Linear_Algebra.qmd)
 
-[Lecture 3 - Introduction to Stress](./slides/Lecture4-Introduction_to_Stress.qmd)
+[Lecture 4 - Introduction to Stress](./slides/Lecture4-Introduction_to_Stress.qmd)
+
+[Lecture 5 - Principle Stress And Directions In Earth](./slides/Lecture5-PrincipleStressAndDirectionsInEarth.qmd)
 
