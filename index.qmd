@@ -1,9 +1,12 @@
 ---
-title: "Shortcourse on Reservoir Geomechanics"
+title: "Course Materials"
 ---
 
-I will put links to the lecture material below.
+**Lectures**
 
 [Lecture 1 - Introduction](./slides/Lecture1-Introduction_Petroleum_Geomechanics.qmd)
 
+[Lecture 2 - Introduction to Stuctural Geology](./slides/Lecture2-Introduction_Structural_Geology.qmd)
+
+[Lecture 3 - Linear Algebra](./slides/Lecture3-Linear_Algebra.qmd)
 

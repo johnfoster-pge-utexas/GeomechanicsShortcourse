@@ -1,0 +1,172 @@
+# The techtonic stress field
+
+---
+
+## The Earth
+
+![&copy; National Geographic [Image Source](http://education.nationalgeographic.com/media/photos/000/279/27998.jpg)](img/Lecture2-Introduction_Structural_Geology_2_0.png){width=150 fig-align="center"}
+ 
+___
+
+![&copy; USGS [Image Source](http://commons.wikimedia.org/wiki/File:Earth_internal_structure.png)](img/Lecture2-Introduction_Structural_Geology_4_0.png){width=150 fig-align="center"}
+
+::: {.notes}
+Continental crust is composed of **granitic rocks** which are made up of relatively lightweight minerals such as *quartz and feldspar*. By contrast, oceanic crust is composed of **basaltic rocks**, which are much denser and heavier. The variations in plate thickness are nature's way of partly compensating for the imbalance in the weight and density of the two types of crust. Because continental rocks are much lighter, the crust under the continents is much thicker (as much as 100 km) whereas the crust under the oceans is generally only about 5 km thick. Like icebergs, only the tips of which are visible above water, continents have deep "roots" to support their elevations. [Source](http://pubs.usgs.gov/gip/dynamic/tectonic.html)
+:::
+
+---
+
+## Continental Drift
+
+
+![&copy; USGS [Image Source](http://pubs.usgs.gov/gip/dynamic/graphics/Fig2-5globes.gif)](img/Lecture2-Introduction_Structural_Geology_8_0.png){width=150 fig-align="center"}
+    
+
+**Permian** -- 250 Million Years Ago
+
+::: {.notes}
+According to the continental drift theory, the supercontinent Pangaea began to break up about 225-200 million years ago, eventually fragmenting into the continents as we know them today.
+:::
+
+---
+
+![&copy; USGS [Image Source](http://pubs.usgs.gov/gip/dynamic/graphics/Fig2-5globes.gif)](img/Lecture2-Introduction_Structural_Geology_11_0.png){width=150 fig-align="center"}
+
+
+**Triassic** -- 200 Million Years Ago
+
+---
+
+
+![&copy; USGS [Image Source](http://pubs.usgs.gov/gip/dynamic/graphics/Fig2-5globes.gif)](img/Lecture2-Introduction_Structural_Geology_13_0.png){width=150 fig-align="center"}
+
+
+**Jurassic** -- 145 Million Years Ago
+
+---
+
+![&copy; USGS [Image Source](http://pubs.usgs.gov/gip/dynamic/graphics/Fig2-5globes.gif)](img/Lecture2-Introduction_Structural_Geology_15_0.png){width=150 fig-align="center"}
+    
+
+**Cretaceous** -- 65 Million Years Ago
+
+---
+
+    
+![&copy; USGS [Image Source](http://pubs.usgs.gov/gip/dynamic/graphics/Fig2-5globes.gif)](img/Lecture2-Introduction_Structural_Geology_17_0.png){width=150 fig-align="center"}
+    
+
+**Present Day**
+
+---
+
+## Tectonic plates
+    
+![&copy; USGS [Image Source](http://pubs.usgs.gov/gip/dynamic/graphics/Fig1.jpg)](img/Lecture2-Introduction_Structural_Geology_20_0.png){width=150 fig-align="center"}
+    
+
+::: {.notes}
+A tectonic plate (also called lithospheric plate) is a massive, irregularly shaped slab of solid rock, generally composed of both continental and oceanic lithosphere. Plate size can vary greatly, from a few hundred to thousands of kilometers across; the Pacific and Antarctic Plates are among the largest. Plate thickness also varies greatly, ranging from less than 15 km for young oceanic lithosphere to about 200 km or more for ancient continental lithosphere (for example, the interior parts of North and South America).
+
+Like many features on the Earth's surface, plates change over time. Those composed partly or entirely of oceanic lithosphere can sink under another plate, usually a lighter, mostly continental plate, and eventually disappear completely. This process is happening now off the coast of Oregon and Washington. The small Juan de Fuca Plate, a remnant of the formerly much larger oceanic Farallon Plate, will someday be entirely consumed as it continues to sink beneath the North American Plate. [Source](http://pubs.usgs.gov/gip/dynamic/tectonic.html)
+:::
+
+---
+
+##  Plate Boundaries
+    
+![&copy; USGS [Image Source](http://pubs.usgs.gov/gip/dynamic/graphics/Fig13.gif)](img/Lecture2-Introduction_Structural_Geology_24_0.png){width=150 fig-align="center"}
+    
+
+::: {.notes}
+**Divergent boundaries** occur along spreading centers where plates are moving apart and new crust is created by magma pushing up from the mantle. Picture two giant conveyor belts, facing each other but slowly moving in opposite directions as they transport newly formed oceanic crust away from the ridge crest.
+
+The size of the Earth has not changed significantly during the past 600 million years, and very likely not since shortly after its formation 4.6 billion years ago. The Earth's unchanging size implies that the crust must be destroyed at about the same rate as it is being created. Such destruction (recycling) of crust takes place along **convergent boundaries** where plates are moving toward each other, and sometimes one plate sinks (is subducted) under another. The location where sinking of a plate occurs is called a subduction zone.
+
+The zone between two plates sliding horizontally past one another is called a **transform-fault boundary**, or simply a transform boundary. Transform faults connect two spreading centers (divergent plate boundaries) or, less commonly, trenches (convergent plate boundaries). *Most transform faults are found on the ocean floor.* They commonly offset the active spreading ridges, producing zig-zag plate margins, and are generally defined by shallow earthquakes. However, a few occur on land, for example the San Andreas fault zone in California. This transform fault connects the East Pacific Rise, a divergent boundary to the south, with the South Gorda -- Juan de Fuca -- Explorer Ridge, another divergent boundary to the north. [Source](http://pubs.usgs.gov/gip/dynamic/understanding.html#anchor15039288)
+:::
+
+---
+
+# Fault types
+
+---
+
+## Normal fault
+    
+![&copy; USGS [Image Source](http://geomaps.wr.usgs.gov/parks/deform/normfaultLABEL.gif)](img/Lecture2-Introduction_Structural_Geology_29_0.png){width=150 fig-align="center"}
+
+
+::: {.notes}
+A normal fault drops rock on one side of the fault down relative to the other side. [Source](http://geomaps.wr.usgs.gov/parks/deform/gnormal.html)
+:::
+
+---
+
+## Reverse fault
+
+
+![&copy; USGS [Image Source](http://geomaps.wr.usgs.gov/parks/deform/reversefaultLABEL.gif)](img/Lecture2-Introduction_Structural_Geology_33_0.png){width=150 fig-align="center"}
+
+
+::: {.notes}
+Here's a way to tell a reverse fault from a normal fault. Take a look at the side that shows the fault and arrows indicating movement. See the block farthest to the right that is shaped kind of like a foot? That's the foot wall. Now look at the block on the other side of the fault. See how it's resting or hanging on top of the foot wall block? That's the hanging wall. 
+
+Think about this: if we hold the foot wall stationary, where would the hanging wall go if we reversed gravity? The hanging wall will slide upwards, right? When movement along a fault is the reverse of what you would expect with normal gravity we call them reverse faults! [Source](http://geomaps.wr.usgs.gov/parks/deform/greverse.html)
+:::
+
+---
+
+## Strike-slip
+
+![&copy; USGS [Image Source](http://geomaps.wr.usgs.gov/parks/deform/strikeslip.gif)](img/Lecture2-Introduction_Structural_Geology_37_0.png){width=150 fig-align="center"}
+
+
+::: {.notes}
+Strike-slip faults have a different type of movement than normal and reverse faults. You probably noticed that the blocks that move on either side of a reverse or normal fault slide up or down along a dipping fault surface.
+
+The rocky blocks on either side of strike-slip faults, on the other hand, scrape along side-by-side. You can see in the illustration that the movement is horizontal and the rock layers beneath the surface haven't been moved up or down on either side of the fault.
+
+Take a look where the fault has ruptured the Earth surface. Notice that pure strike-slip faults do not produce fault scarps. There are other tell-tale changes in the landscape that signal strike-slip faulting. As you might guess, where the two massive blocks on either side of a strike-slip fault grind against each other, rock is weakened. Streams flowing across strike-slip faults are often diverted to flow along this weakened zone. [Source](http://geomaps.wr.usgs.gov/parks/deform/gfaults.html)
+:::
+
+---
+
+## Reality
+
+ * Much more complicated!
+
+---
+
+# Sources of techtonic stress
+
+---
+
+## Plate driving stresses
+
+::: {.incremental}
+- Tectonic plates are pushed by compressional forces from mid-ocean ridges
+- Drag forces on the base of the plates
+- Frictional resistance to subduction
+:::
+
+---
+
+## Topography and buoyancy forces
+
+::: {.incremental}
+- Density anomalies
+- Plate thinning 
+  - extension
+- Plate thickening 
+  - compression
+:::
+
+---
+
+## Plate flexure
+
+::: {.incremental}
+- Sediment loading on a techtonic plate
+- Wavelength can be as long as 1000km
+:::

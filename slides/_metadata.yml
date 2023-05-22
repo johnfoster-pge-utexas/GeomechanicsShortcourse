@@ -1,0 +1,7 @@
+format: 
+  revealjs:
+    navigation-mode: linear 
+    touch: true
+    transition: slide
+    center-title-slide: true
+    footer: "Shortcourse on Reservoir Geomechanics - John T. Foster - May 2023"

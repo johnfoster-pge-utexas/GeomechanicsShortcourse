@@ -1,39 +1,48 @@
----
-format: 
-  revealjs:
-    navigation-mode: grid
-    touch: true
-    footer: "Shortcourse on Reservoir Geomechanics - John T. Foster - May 2023"
+# About me...
+
+
+:::: {layout="[[50], [-35, 10, -10, 10, -35]]" fig-align="center"}
+
+![](http://www.engr.utexas.edu/images/faculty/Foster-John.jpg){fig-align="center" width=500}
+
+[![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){fig-align="center" width=50}](https://github.com/johntfoster)
+
+[![](https://img.icons8.com/fluency/512/twitter.png){fig-align="center" width=50}](https://twitter.com/johntfoster)
+
+::::
 
 ---
 
-## Why is stress important in petroleum engineering?
+## Now your turn...
+
+- Name
+- Professional background
+  - Engineer / Geoscientists / Data Scientist / Other
+  - Expectations for class
 
 ---
 
-
-### Wellbore failure occurs because the stress around the well exceeds the strength of the rock.
-
-![](images/wellbore.png){width=150 fig-align="center"}
-
-&copy; American Geophysical Union, &copy; Centek Publishing [Image Source](http://petrowiki.org/images/thumb/b/b0/Devol2_1102final_Page_051_Image_0001.png/300px-Devol2_1102final_Page_051_Image_0001.png)
+# Why is stress important in petroleum engineering?
 
 ---
 
-### Faults will slip when the ratio of shear to normal stress on the fault exceeds its frictional strength.
+## Wellbore failure occurs because the stress around the well exceeds the strength of the rock.
 
-![](images/slip.png){width=150 fig-align="center"}
-
-&copy; USGS [Image Source]('http://geomaps.wr.usgs.gov/parks/deform/normalfault.gif')
+![&copy; American Geophysical Union, &copy; Centek Publishing [Image Source](http://petrowiki.org/img/thumb/b/b0/Devol2_1102final_Page_051_Image_0001.png/300px-Devol2_1102final_Page_051_Image_0001.png)](img/wellbore.png){width=150 fig-align="center"}
 
 ---
 
-### Reservior depletion causes changes in the stress state at depth that can be beneficial, or detrimental, to production.
+## Faults will slip when the ratio of shear to normal stress on the fault exceeds its frictional strength.
 
-![](images/depletion.png){width=150 fig-align="center"}
+![&copy; USGS [Image Source]('http://geomaps.wr.usgs.gov/parks/deform/normalfault.gif')](img/slip.png){width=150 fig-align="center"}
 
-&copy; IESL [Image Source](http://iesl-global.com/wp-content/uploads/2014/06/ReservoirPressureIllustration.jpg)
+---
 
-::: notes
+## Reservior depletion causes changes in the stress state at depth that can be beneficial, or detrimental, to production.
+
+![&copy; IESL [Image Source](http://iesl-global.com/wp-content/uploads/2014/06/ReservoirPressureIllustration.jpg)](img/depletion.png){width=150 fig-align="center"}
+
+
+::: {.notes}
 Image is of a simulation that is used to identify changes in porosity and/or permeability due to pore pressure depletion.
 :::
