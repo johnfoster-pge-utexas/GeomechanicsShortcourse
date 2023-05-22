@@ -2,22 +2,183 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Shortcourse on Reservoir Geomechanics",
+    "title": "Course Materials",
     "section": "",
-    "text": "I will put links to the lecture material below.\nLecture 1 - Introduction"
+    "text": "Lectures\nLecture 1 - Introduction\nLecture 2 - Introduction to Stuctural Geology\nLecture 3 - Linear Algebra"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "objectID": "slides/Lecture2-Introduction_Structural_Geology.html#the-earth",
+    "href": "slides/Lecture2-Introduction_Structural_Geology.html#the-earth",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "The Earth",
+    "text": "The Earth\n\n© National Geographic Image Source"
   },
   {
-    "objectID": "slides/Lecture1-Introduction_Petroleum_Geomechanics.html#why-is-stress-important-in-petroleum-engineering",
-    "href": "slides/Lecture1-Introduction_Petroleum_Geomechanics.html#why-is-stress-important-in-petroleum-engineering",
+    "objectID": "slides/Lecture2-Introduction_Structural_Geology.html#continental-drift",
+    "href": "slides/Lecture2-Introduction_Structural_Geology.html#continental-drift",
     "title": "Shortcourse on Reservoir Geomechanics",
-    "section": "Why is stress important in petroleum engineering?",
-    "text": "Why is stress important in petroleum engineering?"
+    "section": "Continental Drift",
+    "text": "Continental Drift\n\n© USGS Image SourcePermian – 250 Million Years Ago\n\nAccording to the continental drift theory, the supercontinent Pangaea began to break up about 225-200 million years ago, eventually fragmenting into the continents as we know them today."
+  },
+  {
+    "objectID": "slides/Lecture2-Introduction_Structural_Geology.html#tectonic-plates",
+    "href": "slides/Lecture2-Introduction_Structural_Geology.html#tectonic-plates",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Tectonic plates",
+    "text": "Tectonic plates\n\n© USGS Image Source\nA tectonic plate (also called lithospheric plate) is a massive, irregularly shaped slab of solid rock, generally composed of both continental and oceanic lithosphere. Plate size can vary greatly, from a few hundred to thousands of kilometers across; the Pacific and Antarctic Plates are among the largest. Plate thickness also varies greatly, ranging from less than 15 km for young oceanic lithosphere to about 200 km or more for ancient continental lithosphere (for example, the interior parts of North and South America).\nLike many features on the Earth’s surface, plates change over time. Those composed partly or entirely of oceanic lithosphere can sink under another plate, usually a lighter, mostly continental plate, and eventually disappear completely. This process is happening now off the coast of Oregon and Washington. The small Juan de Fuca Plate, a remnant of the formerly much larger oceanic Farallon Plate, will someday be entirely consumed as it continues to sink beneath the North American Plate. Source"
+  },
+  {
+    "objectID": "slides/Lecture2-Introduction_Structural_Geology.html#plate-boundaries",
+    "href": "slides/Lecture2-Introduction_Structural_Geology.html#plate-boundaries",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Plate Boundaries",
+    "text": "Plate Boundaries\n\n© USGS Image Source\nDivergent boundaries occur along spreading centers where plates are moving apart and new crust is created by magma pushing up from the mantle. Picture two giant conveyor belts, facing each other but slowly moving in opposite directions as they transport newly formed oceanic crust away from the ridge crest.\nThe size of the Earth has not changed significantly during the past 600 million years, and very likely not since shortly after its formation 4.6 billion years ago. The Earth’s unchanging size implies that the crust must be destroyed at about the same rate as it is being created. Such destruction (recycling) of crust takes place along convergent boundaries where plates are moving toward each other, and sometimes one plate sinks (is subducted) under another. The location where sinking of a plate occurs is called a subduction zone.\nThe zone between two plates sliding horizontally past one another is called a transform-fault boundary, or simply a transform boundary. Transform faults connect two spreading centers (divergent plate boundaries) or, less commonly, trenches (convergent plate boundaries). Most transform faults are found on the ocean floor. They commonly offset the active spreading ridges, producing zig-zag plate margins, and are generally defined by shallow earthquakes. However, a few occur on land, for example the San Andreas fault zone in California. This transform fault connects the East Pacific Rise, a divergent boundary to the south, with the South Gorda – Juan de Fuca – Explorer Ridge, another divergent boundary to the north. Source"
+  },
+  {
+    "objectID": "slides/Lecture2-Introduction_Structural_Geology.html#normal-fault",
+    "href": "slides/Lecture2-Introduction_Structural_Geology.html#normal-fault",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Normal fault",
+    "text": "Normal fault\n\n© USGS Image Source\nA normal fault drops rock on one side of the fault down relative to the other side. Source"
+  },
+  {
+    "objectID": "slides/Lecture2-Introduction_Structural_Geology.html#reverse-fault",
+    "href": "slides/Lecture2-Introduction_Structural_Geology.html#reverse-fault",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Reverse fault",
+    "text": "Reverse fault\n\n© USGS Image Source\nHere’s a way to tell a reverse fault from a normal fault. Take a look at the side that shows the fault and arrows indicating movement. See the block farthest to the right that is shaped kind of like a foot? That’s the foot wall. Now look at the block on the other side of the fault. See how it’s resting or hanging on top of the foot wall block? That’s the hanging wall.\nThink about this: if we hold the foot wall stationary, where would the hanging wall go if we reversed gravity? The hanging wall will slide upwards, right? When movement along a fault is the reverse of what you would expect with normal gravity we call them reverse faults! Source"
+  },
+  {
+    "objectID": "slides/Lecture2-Introduction_Structural_Geology.html#strike-slip",
+    "href": "slides/Lecture2-Introduction_Structural_Geology.html#strike-slip",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Strike-slip",
+    "text": "Strike-slip\n\n© USGS Image Source\nStrike-slip faults have a different type of movement than normal and reverse faults. You probably noticed that the blocks that move on either side of a reverse or normal fault slide up or down along a dipping fault surface.\nThe rocky blocks on either side of strike-slip faults, on the other hand, scrape along side-by-side. You can see in the illustration that the movement is horizontal and the rock layers beneath the surface haven’t been moved up or down on either side of the fault.\nTake a look where the fault has ruptured the Earth surface. Notice that pure strike-slip faults do not produce fault scarps. There are other tell-tale changes in the landscape that signal strike-slip faulting. As you might guess, where the two massive blocks on either side of a strike-slip fault grind against each other, rock is weakened. Streams flowing across strike-slip faults are often diverted to flow along this weakened zone. Source"
+  },
+  {
+    "objectID": "slides/Lecture2-Introduction_Structural_Geology.html#reality",
+    "href": "slides/Lecture2-Introduction_Structural_Geology.html#reality",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Reality",
+    "text": "Reality\n\nMuch more complicated!"
+  },
+  {
+    "objectID": "slides/Lecture2-Introduction_Structural_Geology.html#plate-driving-stresses",
+    "href": "slides/Lecture2-Introduction_Structural_Geology.html#plate-driving-stresses",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Plate driving stresses",
+    "text": "Plate driving stresses\n\n\nTectonic plates are pushed by compressional forces from mid-ocean ridges\nDrag forces on the base of the plates\nFrictional resistance to subduction"
+  },
+  {
+    "objectID": "slides/Lecture2-Introduction_Structural_Geology.html#topography-and-buoyancy-forces",
+    "href": "slides/Lecture2-Introduction_Structural_Geology.html#topography-and-buoyancy-forces",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Topography and buoyancy forces",
+    "text": "Topography and buoyancy forces\n\n\nDensity anomalies\nPlate thinning\n\nextension\n\nPlate thickening\n\ncompression"
+  },
+  {
+    "objectID": "slides/Lecture2-Introduction_Structural_Geology.html#plate-flexure",
+    "href": "slides/Lecture2-Introduction_Structural_Geology.html#plate-flexure",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Plate flexure",
+    "text": "Plate flexure\n\n\nSediment loading on a techtonic plate\nWavelength can be as long as 1000km\n\n\n\n\nShortcourse on Reservoir Geomechanics - John T. Foster - May 2023"
+  },
+  {
+    "objectID": "slides/Lecture1-Introduction_Petroleum_Geomechanics.html#now-your-turn",
+    "href": "slides/Lecture1-Introduction_Petroleum_Geomechanics.html#now-your-turn",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Now your turn…",
+    "text": "Now your turn…\n\nName\nProfessional background\n\nEngineer / Geoscientists / Data Scientist / Other\nExpectations for class"
+  },
+  {
+    "objectID": "slides/Lecture1-Introduction_Petroleum_Geomechanics.html#wellbore-failure-occurs-because-the-stress-around-the-well-exceeds-the-strength-of-the-rock.",
+    "href": "slides/Lecture1-Introduction_Petroleum_Geomechanics.html#wellbore-failure-occurs-because-the-stress-around-the-well-exceeds-the-strength-of-the-rock.",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Wellbore failure occurs because the stress around the well exceeds the strength of the rock.",
+    "text": "Wellbore failure occurs because the stress around the well exceeds the strength of the rock.\n\n© American Geophysical Union, © Centek Publishing Image Source"
+  },
+  {
+    "objectID": "slides/Lecture1-Introduction_Petroleum_Geomechanics.html#faults-will-slip-when-the-ratio-of-shear-to-normal-stress-on-the-fault-exceeds-its-frictional-strength.",
+    "href": "slides/Lecture1-Introduction_Petroleum_Geomechanics.html#faults-will-slip-when-the-ratio-of-shear-to-normal-stress-on-the-fault-exceeds-its-frictional-strength.",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Faults will slip when the ratio of shear to normal stress on the fault exceeds its frictional strength.",
+    "text": "Faults will slip when the ratio of shear to normal stress on the fault exceeds its frictional strength.\n\n© USGS Image Source"
+  },
+  {
+    "objectID": "slides/Lecture1-Introduction_Petroleum_Geomechanics.html#reservior-depletion-causes-changes-in-the-stress-state-at-depth-that-can-be-beneficial-or-detrimental-to-production.",
+    "href": "slides/Lecture1-Introduction_Petroleum_Geomechanics.html#reservior-depletion-causes-changes-in-the-stress-state-at-depth-that-can-be-beneficial-or-detrimental-to-production.",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Reservior depletion causes changes in the stress state at depth that can be beneficial, or detrimental, to production.",
+    "text": "Reservior depletion causes changes in the stress state at depth that can be beneficial, or detrimental, to production.\n\n© IESL Image Source\nImage is of a simulation that is used to identify changes in porosity and/or permeability due to pore pressure depletion.\n\n\n\nShortcourse on Reservoir Geomechanics - John T. Foster - May 2023"
+  },
+  {
+    "objectID": "slides/Lecture3-Linear_Algebra.html#matrix-vector-multiplication",
+    "href": "slides/Lecture3-Linear_Algebra.html#matrix-vector-multiplication",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Matrix-Vector multiplication",
+    "text": "Matrix-Vector multiplication\n\\[\\begin{equation}\n  \\left\\{\\begin{matrix}\n  c_1 \\\\\n  c_2 \\\\\n  c_3\n  \\end{matrix}\\right\\} =\n  \\begin{bmatrix}\n  a_{11} & a_{12} & a_{13} \\\\\n  a_{21} & a_{22} & a_{23}  \\\\\n  a_{31} & a_{32} & a_{33}\n  \\end{bmatrix}\n  \\left\\{\\begin{matrix}\n  b_1 \\\\\n  b_2 \\\\\n  b_3\n  \\end{matrix}\\right\\}\n\\end{equation}\\]\n\n\\[\nc_1 = a_{11} b_1 + a_{12} b_2 + a_{13} b_3\n\\]\n\\[\nc_2 = a_{21} b_1 + a_{22} b_2 + a_{23} b_3\n\\]\n\\[\nc_3 = a_{31} b_1 + a_{32} b_2 + a_{33} b_3\n\\]\n\n\nIn words: \\(c_i\\) is the dot product of the \\(i^{\\mbox{th}}\\) row of \\(\\mathbf{a}\\) with \\(\\vec{b}\\)…"
+  },
+  {
+    "objectID": "slides/Lecture3-Linear_Algebra.html#matrix-matrix-multiplication",
+    "href": "slides/Lecture3-Linear_Algebra.html#matrix-matrix-multiplication",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Matrix-Matrix multiplication",
+    "text": "Matrix-Matrix multiplication\n\n\\[\\begin{equation}\n\\begin{bmatrix}\nc_{11} & c_{12} & c_{13} \\\\\nc_{21} & c_{22} & c_{23}  \\\\\nc_{31} & c_{32} & c_{33}\n\\end{bmatrix} =\n\\begin{bmatrix}\na_{11} & a_{12} & a_{13} \\\\\na_{21} & a_{22} & a_{23}  \\\\\na_{31} & a_{32} & a_{33}\n\\end{bmatrix}\n\\begin{bmatrix}\nb_{11} & b_{12} & b_{13} \\\\\nb_{21} & b_{22} & b_{23}  \\\\\nb_{31} & b_{32} & b_{33}\n\\end{bmatrix}\n\\end{equation}\\]\n\n\n\\[\nc_{11} = a_{11} b_{11} + a_{12} b_{21} + a_{13} b_{31}\n\\]\n\\[\\begin{align}\nc_{12} &= a_{11} b_{12} + a_{12} b_{22} + a_{13} b_{32} \\\\\n       & \\vdots\n\\end{align}\\]\n\n\nIn words: \\(c_{ij}\\) is the dot product of the \\(i^{\\mbox{th}}\\) row of \\(\\mathbf{a}\\) with the \\(j^{\\mbox{th}}\\) column of \\(\\mathbf{b}\\)"
+  },
+  {
+    "objectID": "slides/Lecture3-Linear_Algebra.html#examples",
+    "href": "slides/Lecture3-Linear_Algebra.html#examples",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Examples",
+    "text": "Examples\n\\[\\begin{equation}\n  \\begin{bmatrix}\n  2 & 1 \\\\\n  3 & 2\n  \\end{bmatrix}\n  \\left\\{\n  \\begin{matrix}\n  1 \\\\\n  2\n  \\end{matrix}\\right\\} =\n  \\left\\{\\begin{matrix}\n  4 \\\\\n  7\n  \\end{matrix}\\right\\}\n\\end{equation}\\]\n\n\\[\\begin{equation}\n  \\begin{bmatrix}\n  2 & 1 \\\\\n  3 & 2\n  \\end{bmatrix}\n  \\begin{bmatrix}\n  1 & 3 \\\\\n  1 & 2\n  \\end{bmatrix} =\n  \\begin{bmatrix}\n  3 & 8 \\\\\n  5 & 13\n  \\end{bmatrix}\n\\end{equation}\\]"
+  },
+  {
+    "objectID": "slides/Lecture3-Linear_Algebra.html#the-determinant-of-a-2-x-2-matrix",
+    "href": "slides/Lecture3-Linear_Algebra.html#the-determinant-of-a-2-x-2-matrix",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "The determinant of a 2 x 2 matrix",
+    "text": "The determinant of a 2 x 2 matrix\n\\[\n\\mathbf{A} =\n\\begin{bmatrix}\na & b \\\\\nc & d\n\\end{bmatrix}\n\\]\n\n\\[\n\\det(\\mathbf{A}) = a \\cdot d - b \\cdot c\n\\]"
+  },
+  {
+    "objectID": "slides/Lecture3-Linear_Algebra.html#the-determinant-of-a-3-x-3-matrix",
+    "href": "slides/Lecture3-Linear_Algebra.html#the-determinant-of-a-3-x-3-matrix",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "The determinant of a 3 x 3 matrix",
+    "text": "The determinant of a 3 x 3 matrix\n\\[\n\\mathbf{A} =\n\\begin{bmatrix}\na & b & c\\\\\nd & e & f\\\\\ng & h & i\n\\end{bmatrix}\n\\]\n\n\\[\n\\det(\\mathbf{A}) = a \\cdot ( e \\cdot i - f \\cdot h ) - b \\cdot ( d \\cdot i - f \\cdot g ) + c \\cdot ( d \\cdot h - e \\cdot g)\n\\]"
+  },
+  {
+    "objectID": "slides/Lecture3-Linear_Algebra.html#matrix-row-operations",
+    "href": "slides/Lecture3-Linear_Algebra.html#matrix-row-operations",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Matrix row operations",
+    "text": "Matrix row operations\nUsed in solving matrix equations, i.e.\n\\[\\begin{equation}\n  \\begin{bmatrix}\n  a_{11} & a_{12} & a_{13} \\\\\n  a_{21} & a_{22} & a_{23} \\\\\n  a_{31} & a_{32} & a_{33}\n  \\end{bmatrix}\n  \\left\\{\n  \\begin{matrix}\n  x_1 \\\\\n  x_2 \\\\\n  x_3\n  \\end{matrix}\n  \\right\\} =\n  \\left\\{\\begin{matrix}\n  b_1 \\\\\n  b_2 \\\\\n  b_3\n  \\end{matrix}\n  \\right\\}\n\\end{equation}\\]\n\\[\\mathbf{A}\\vec{x} = \\vec{b}\\]\n\n\nSwaping rows doesn’t change solution\nAdding rows together doesn’t change solution\nMultiplying row by a scalar doesn’t change solution"
+  },
+  {
+    "objectID": "slides/Lecture3-Linear_Algebra.html#example",
+    "href": "slides/Lecture3-Linear_Algebra.html#example",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Example",
+    "text": "Example\nSolve for \\(\\vec{x}\\)\n\\[\\begin{equation}\n\\begin{bmatrix}\n2 & 3 & -2 \\\\\n0 & 0 & 3 \\\\\n1 & 0 & 2 \\\\\n\\end{bmatrix}\n\\left\\{\n\\begin{matrix}\nx_1 \\\\\nx_2 \\\\\nx_3\n\\end{matrix}\\right\\} =\n\\left\\{\n\\begin{matrix}\n6 \\\\\n-6 \\\\\n3\n\\end{matrix}\\right\\}\n\\end{equation}\\]"
+  },
+  {
+    "objectID": "slides/Lecture3-Linear_Algebra.html#eigenvalue-problem",
+    "href": "slides/Lecture3-Linear_Algebra.html#eigenvalue-problem",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Eigenvalue problem",
+    "text": "Eigenvalue problem\n\\[\n\\mathbf{A} \\vec{v} = \\lambda \\vec{v}\n\\]\n\nA vector \\(\\vec{v}\\) is said to be an eigenvector of \\(\\mathbf{A}\\) if when multiplied by \\(\\mathbf{A}\\) on the right, it becomes a scalar multple of itself.\n\n\n\\[\n\\mathbf{A}\\vec{v} - \\lambda \\vec{v} = 0\n\\]\n\n\n\\[\n(\\mathbf{A} - \\lambda \\mathbf{I})\\vec{v} = 0\n\\]\n\n\nA non-trivial solution for \\(\\vec{v}\\) exists, if and only if\n\\[\n\\det(\\mathbf{A} - \\lambda \\mathbf{I}) = 0\n\\]\nThe \\(\\lambda\\)’s are called the eigenvalues. Examples to follow in the context of stress."
+  },
+  {
+    "objectID": "slides/Lecture3-Linear_Algebra.html#vector-transformation",
+    "href": "slides/Lecture3-Linear_Algebra.html#vector-transformation",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Vector transformation",
+    "text": "Vector transformation\n\\[\n\\vec{v}' = \\mathbf{Q} \\vec{v}\n\\]\n\\[\n\\mathbf{Q} =\n\\begin{bmatrix}\n\\cos(\\theta) & \\sin(\\theta) \\\\\n-\\sin(\\theta) & \\cos(\\theta)\n\\end{bmatrix}\n\\]"
+  },
+  {
+    "objectID": "slides/Lecture3-Linear_Algebra.html#matrix-transformation",
+    "href": "slides/Lecture3-Linear_Algebra.html#matrix-transformation",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Matrix transformation",
+    "text": "Matrix transformation\n\\[\n\\mathbf{S}' = \\mathbf{Q}^{-1} \\mathbf{S} \\mathbf{Q}\n\\]\n\nIf \\(\\mathbf{Q}\\) is chosen such that its columns are eigenvectors of \\(\\mathbf{S}\\), then \\(\\mathbf{S}'\\) will be diagonal with its entries cooresponding to the eigenvalues \\(\\mathbf{S}\\) (and \\(\\mathbf{S}'\\)).\n\n\n\nShortcourse on Reservoir Geomechanics - John T. Foster - May 2023"
   }
 ]

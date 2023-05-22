@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/johnfoster-pge-utexas/GeomechanicsShortcourse/index.html</loc>
-    <lastmod>2023-05-18T14:48:12.381Z</lastmod>
+    <lastmod>2023-05-22T02:02:26.305Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/johnfoster-pge-utexas/GeomechanicsShortcourse/about.html</loc>
-    <lastmod>2023-05-18T14:48:13.093Z</lastmod>
+    <loc>https://github.com/johnfoster-pge-utexas/GeomechanicsShortcourse/slides/Lecture2-Introduction_Structural_Geology.html</loc>
+    <lastmod>2023-05-22T02:02:27.865Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/johnfoster-pge-utexas/GeomechanicsShortcourse/slides/Lecture1-Introduction_Petroleum_Geomechanics.html</loc>
-    <lastmod>2023-05-18T14:48:15.509Z</lastmod>
+    <lastmod>2023-05-22T02:02:28.181Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/johnfoster-pge-utexas/GeomechanicsShortcourse/slides/Lecture3-Linear_Algebra.html</loc>
+    <lastmod>2023-05-22T02:02:28.489Z</lastmod>
   </url>
 </urlset>
