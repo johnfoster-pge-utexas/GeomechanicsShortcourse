@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Course Materials",
     "section": "",
-    "text": "Lectures\nLecture 1 - Introduction\nLecture 2 - Introduction to Stuctural Geology\nLecture 3 - Linear Algebra"
+    "text": "Lectures\nLecture 1 - Introduction\nLecture 2 - Introduction to Stuctural Geology\nLecture 3 - Linear Algebra\nLecture 3 - Introduction to Stress"
   },
   {
     "objectID": "slides/Lecture2-Introduction_Structural_Geology.html#the-earth",
@@ -82,6 +82,27 @@
     "title": "Shortcourse on Reservoir Geomechanics",
     "section": "Plate flexure",
     "text": "Plate flexure\n\n\nSediment loading on a techtonic plate\nWavelength can be as long as 1000km\n\n\n\n\nShortcourse on Reservoir Geomechanics - John T. Foster - May 2023"
+  },
+  {
+    "objectID": "slides/Lecture4-Introduction_to_Stress.html#cauchy-tetrahedron",
+    "href": "slides/Lecture4-Introduction_to_Stress.html#cauchy-tetrahedron",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Cauchy tetrahedron",
+    "text": "Cauchy tetrahedron\n\n“Cauchy tetrahedron” by Sanpaz - Own work. Licensed under CC BY-SA 3.0 via Wikimedia Commons."
+  },
+  {
+    "objectID": "slides/Lecture4-Introduction_to_Stress.html#stress-tensor",
+    "href": "slides/Lecture4-Introduction_to_Stress.html#stress-tensor",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Stress tensor",
+    "text": "Stress tensor\n\\[\n\\mathbf{\\sigma} =\n\\begin{bmatrix}\n\\sigma_{11} & \\sigma_{12} & \\sigma_{13} \\\\\n\\sigma_{21} & \\sigma_{22} & \\sigma_{23} \\\\\n\\sigma_{31} & \\sigma_{32} & \\sigma_{33}\n\\end{bmatrix}\n\\]"
+  },
+  {
+    "objectID": "slides/Lecture4-Introduction_to_Stress.html#visual-definition",
+    "href": "slides/Lecture4-Introduction_to_Stress.html#visual-definition",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Visual definition",
+    "text": "Visual definition\n\n“Components stress tensor cartesian” by Sanpaz - Own work. Licensed under CC BY-SA 3.0 via Wikimedia Commons.\n\nFirst subscripted index refers to the index of the unit vector that is normal to the face.\nSecond subscripted index refers to the component of traction vector.\n\n\n\n\nShortcourse on Reservoir Geomechanics - John T. Foster - May 2023"
   },
   {
     "objectID": "slides/Lecture1-Introduction_Petroleum_Geomechanics.html#now-your-turn",
