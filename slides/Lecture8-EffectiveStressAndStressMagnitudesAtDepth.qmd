@@ -1,0 +1,140 @@
+# Effective stress
+
+![](img/Lecture8-EffectiveStressAndStressMagnitudesAtDepth_1_0.png)
+
+---
+
+## Effective stress tensor
+
+$$
+\boldsymbol{\sigma}_{eff} = 
+\begin{bmatrix}
+S_{11} & S_{12} & S_{13} \\
+S_{12} & S_{22} & S_{23} \\
+S_{13} & S_{23} & S_{33}
+\end{bmatrix} -
+\begin{bmatrix}
+P_p & 0 & 0 \\
+0 & P_p & 0 \\
+0 & 0 & P_p
+\end{bmatrix}
+$$
+
+::: {.fragment}
+$$
+\boldsymbol{\sigma}_{eff}= 
+\begin{bmatrix}
+S_{11} - P_p & S_{12} & S_{13} \\
+S_{12} & S_{22} - P_p & S_{23} \\
+S_{13} & S_{23} & S_{33} - P_p
+\end{bmatrix}
+$$
+:::
+
+::: {.fragment}
+- Faulting depends on the effective stress
+:::
+
+---
+
+# Stress magnitudes at depth
+
+---
+
+## Normal faulting
+
+::: {layout="[1,1]"}
+
+![Hydrostatic](img/normal_hydro.png){width=350}
+
+![Overpressure](img/normal_over.png){width=350}
+
+&copy; Cambridge University Press [Zoback](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 1.4, pp. 13)
+:::
+
+
+::: {.notes}
+These suggestive figures are established by 1) Anderson faulting theory (which defines the relative stress magnitude), (ii) the fact that the least principal stress must always exceed the pore pressure (to avoid hydraulic fracturing), and (iii) the difference between the minimum and maximum principal stress which cannot exceed the strength of the crust (which depends on depth and pore pressure.
+:::
+
+---
+
+## Strike-slip faulting
+
+::: {layout="[1,1]"}
+
+![Hydrostatic](img/ss_normal.png){width=350}
+
+![Overpressure](img/ss_over.png){width=350}
+
+&copy; Cambridge University Press [Zoback](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 1.4, pp. 13)
+:::
+
+---
+
+## Reverse faulting
+
+::: {layout="[1,1]"}
+
+![Hydrostatic](img/reverse_hydro.png){width=350}
+
+![Overpressure](img/reverse_hydro.png){width=350}
+
+&copy; Cambridge University Press [Zoback](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 1.4, pp. 13)
+:::
+
+---
+
+## Stress measurement techniques
+
+::: {.incremental}
+- $S_v$ - integration of density logs
+
+- $S_{3}$ ($S_{hmin}$, except in reverse faulting) is obtained from mini-fracs and leak-off tests.  [Zoback](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Chapter 6)
+
+- $P_p$ measure directly or estimated from geophysical logs or siesmic data. [Zoback](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Chapter 2)
+
+- Bound $S_{Hmax}$ with frictional strength of crust or oberservations of wellbore failures. [Zoback](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Chapter 4, 7, 8)
+
+- Orientation of principal stresses from wellbore observations, geology, earthquake focal mechanisms. [Zoback](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Chapter 5, 6)
+:::
+
+## Stress maps
+
+![Heidbach, O., Tingay, M., Barth, A., Reinecker, J., Kurfeß, D., and Müller, B., The World Stress Map database release 2008 DOI:[10.1594/GFZ.WSM.Rel2008](http://dx.doi.org/10.1594/GFZ.WSM.Rel2008), 2008 ](img/Lecture8-EffectiveStressAndStressMagnitudesAtDepth_20_0.png)
+
+---
+
+## Pore pressure at depth
+
+$P_p^{\mbox{hydro}} = \int_0^z \rho_w(z) g {\rm d}z \approx \rho_w g z_w$
+
+---
+
+## Ratio of pore pressure to $S_v$
+
+$\lambda_p = P_p / S_v$
+
+**Hydrostatic:** $\lambda_p \approx 0.44$
+
+**Lithostatic:** $\lambda_p = 1$
+
+---
+
+# Overpressure
+
+---
+
+## Monte Cristo field (onshore near Gulf of Mexico, Texas)
+
+![&copy; Cambridge University Press [Zoback](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 2.2, pp. 30)](img/Lecture8-EffectiveStressAndStressMagnitudesAtDepth_27_0.png)
+
+Hydrostatic is characterized by uniform and connected pores.
+
+---
+
+## Reservior Compartmentalization
+
+![&copy; Cambridge University Press [Zoback](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 2.4, pp. 32)](img/Lecture8-EffectiveStressAndStressMagnitudesAtDepth_31_0.png)
+
+---

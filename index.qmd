@@ -31,3 +31,12 @@ There will some optional coding exercises in Python in this course.  If you'd li
 
 [Lecture 5 - Principle Stress And Directions In Earth](./slides/Lecture5-PrincipleStressAndDirectionsInEarth.qmd)
 
+[Lecture 6 - Anderson Fault Classification](./slides/Lecture6-AndersonFaultClassification.qmd)
+
+[Lecture 7 - Estimating Vertical Stress](./slides/Lecture7-EstimatingVerticalStress.qmd)
+
+[Lecture 8 - Effective Stress and Stress Magnitudes at Depth](./slides/Lecture8-EffectiveStressAndStressMagnitudesAtDepth.qmd)
+
+[Lecture 9 - Mechanisms of Overpressure](./slides/Lecture9-MechanismsOfOverPressure.qmd)
+
+[Lecture 10 - Faults and Fractures at Depth](./slides/Lecture10-FaultsAndFracturesAtDepth.qmd)

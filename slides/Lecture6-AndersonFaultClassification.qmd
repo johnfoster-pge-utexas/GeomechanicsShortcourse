@@ -1,0 +1,30 @@
+# Anderson fault classification
+
+---
+
+## Normal fault
+
+![&copy; USGS [Image Source](http://geomaps.wr.usgs.gov/parks/deform/normfaultLABEL.gif)](img/Lecture6-AndersonFaultClassification_3_0.png)
+
+---
+
+## Reverse fault
+
+![&copy; USGS [Image Source](http://geomaps.wr.usgs.gov/parks/deform/reversefaultLABEL.gif)](img/Lecture6-AndersonFaultClassification_6_0.png)
+
+---
+
+## Strike-slip
+
+![&copy; USGS [Image Source](http://geomaps.wr.usgs.gov/parks/deform/strikeslip.gif)](img/Lecture6-AndersonFaultClassification_9_0.png)
+
+---
+
+## Summary
+
+| Regime | $S_1$ | $S_2$ | $S_3$ |
+|--------|-------|------|-------|
+| Normal | $S_v$ | $S_{Hmax}$ | $S_{hmin}$ |
+| Strike-slip | $S_{Hmax}$ | $S_{v}$ | $S_{hmin}$ |
+| Reverse | $S_{Hmax}$ | $S_{hmin}$ | $S_{v}$ |
+

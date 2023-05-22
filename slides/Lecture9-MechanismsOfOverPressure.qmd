@@ -1,0 +1,117 @@
+# Mechanisms of overpressure
+
+---
+
+## Disequilibrium compaction
+
+- Ongoing sedimentation increases overburden (vertical stress) faster than fluid diffuses out of zone
+
+---
+
+## Characteristic time of diffusion in porous medium
+
+$$
+\tau = \frac{(\phi \beta_f + \beta_r) \eta l^2}{k}
+$$
+
+:::{.fragment}
+- low-permiability sand (~1 md) 
+  - $\tau$ on the order of years for $l=0.1$km
+:::
+
+:::{.fragment}
+- low-permiability shale (~10 nd) 
+  - $\tau$ on the order of 100,000 years for $l=0.1$km
+:::
+
+---
+
+## Common in Gulf of Mexico
+
+![&copy; John Wiley & Sons, Inc. [Gordon and Flemmings, 1998](http:dx.doi.org/0.1046/j.1365-2117.1998.00052.x)](img/disequil_compaction.png)
+
+---
+
+## Techtonic compaction
+
+- Occurs in areas where large-scale tectonic stress changes occur over geolocgically short periods of time.
+
+::: {.notes}
+California
+:::
+
+---
+
+## Hydrocarbon column heights
+
+![[Image Source](http://petrowiki.org/File%3AVol5_Page_0004_Image_0001.png)](img/HCH.png)
+
+---
+
+## Hydrocarbon column heights
+
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 2.11, pp. 42)](img/HCH2.png)
+
+---
+
+## Centroid effects
+
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 2.12, pp. 43)](img/centroid.png)
+
+::: {.notes}
+Can cause "kicks" in drilling, because pressure will exceed mud weight pressure and formation fluids will get into the wellbore.  If this increases in severity uncontrolled, it could lead to a blowout.
+:::
+
+---
+
+
+## Other  mechanisms
+
+
+### Aquathermal pressurization
+ 
+   - Temperature increases due to radioactive decay and upward heat flow from mantle
+   
+### Hydrocarbon generation
+ 
+   - From thermal maturation of kerogen
+
+# Direct measurement of pore pressure
+
+- Via wireline samplers that isolate formation pressure from annular pressure in a small area at the wellbore wall.
+- Mud weight
+
+# Estimation of pore pressure at depth
+
+## Confined compaction experiment
+
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 2.13, pp. 46)](img/confined_compaction_exp.png)
+
+---
+
+## Shale compaction relation
+
+$\phi = \phi_0 e^{-\beta (S_v - P_p)}$
+
+## Use with caution!
+
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 2.14, pp. 48)](img/compation_deviation.png)
+
+---
+
+## Porosity inference from $P$-waves {.smaller}
+
+$P_p = S_v + \left(\frac{1}{\beta} \ln\left(\frac{\phi}{\phi_0}\right)\right) \quad \quad \phi = 1 - \left(\frac{\Delta t_{ma}}{\Delta t}\right)^{\frac{1}{f}}$
+
+::: {fig-valign="bottom" layout="[1, 1, 1]"}
+
+![Compaction](img/beta_est.png)
+
+![$P$-wave](img/f_est.png)
+
+![Pore pressures](img/pp_predict.png){width=155}
+
+&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Figs. 2.16a,b, pp. 48, Fig. 2.8b, pp. 36)
+:::
+
+---
