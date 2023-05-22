@@ -1,6 +1,16 @@
----
-title: "Course Materials"
----
+**Intructor**
+
+Name: [John T. Foster, PhD](https://johnfoster.pge.utexas.edu)  
+
+Email: [john.foster@utexas.edu](mailto:john.foster@utexas.edu)
+
+**Course Description** This is a short course on petroleum reservoir geomechanics.  The primary emphasis in this course is basic stress and strain analysis; pore pressure and in situ stress estimation and measurement; deformation mechanisms in rock; rock fracture description and analysis; wellbore stresses and failure; wellbore stability analysis; fault stability analysis; depletion-induced reservoir deformation; and hydraulic fracturing.
+
+**Exercises Coding Environment**
+
+There will some optional follow-along coding exercises in Python in this course.  If you'd like to follow along and run live code, you'll need to have a [Github](https://github.com) account.  If you don't have one already, you can register for free [here](https://github.com/register).  Once you have an account, you should be able to click the link below to access a live coding environment for the exercises:
+
+[![](https://github.com/codespaces/badge.svg)](https://codespaces.new/johnfoster-pge-utexas/GeomechanicsShortcourse/tree/exercises?quickstart=1)
 
 **Lectures**
 
