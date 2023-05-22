@@ -26,21 +26,21 @@
 
 ---
 
-## Wellbore failure occurs because the stress around the well exceeds the strength of the rock.
+## Wellbore failure occurs because the stress around the well exceeds the strength of the rock. {.smaller}
 
 ![&copy; American Geophysical Union, &copy; Centek Publishing [Image Source](http://petrowiki.org/img/thumb/b/b0/Devol2_1102final_Page_051_Image_0001.png/300px-Devol2_1102final_Page_051_Image_0001.png)](img/wellbore.png){width=150 fig-align="center"}
 
 ---
 
-## Faults will slip when the ratio of shear to normal stress on the fault exceeds its frictional strength.
+## Faults will slip when the ratio of shear to normal stress on the fault exceeds its frictional strength. {.smaller}
 
 ![&copy; USGS [Image Source]('http://geomaps.wr.usgs.gov/parks/deform/normalfault.gif')](img/slip.png){width=150 fig-align="center"}
 
 ---
 
-## Reservior depletion causes changes in the stress state at depth that can be beneficial, or detrimental, to production.
+## Reservior depletion causes changes in the stress state at depth that can be beneficial, or detrimental, to production. {.smaller}
 
-![&copy; IESL [Image Source](http://iesl-global.com/wp-content/uploads/2014/06/ReservoirPressureIllustration.jpg)](img/depletion.png){width=150 fig-align="center"}
+![&copy; IESL [Image Source](http://iesl-global.com/wp-content/uploads/2014/06/ReservoirPressureIllustration.jpg)](img/depletion.png){width=250 fig-align="center"}
 
 
 ::: {.notes}
