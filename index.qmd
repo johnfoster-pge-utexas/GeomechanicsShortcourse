@@ -6,6 +6,13 @@ Email: [john.foster@utexas.edu](mailto:john.foster@utexas.edu)
 
 **Course Description** This is a short course on petroleum reservoir geomechanics.  The primary emphasis in this course is basic stress and strain analysis; pore pressure and in situ stress estimation and measurement; deformation mechanisms in rock; rock fracture description and analysis; wellbore stresses and failure; wellbore stability analysis; fault stability analysis; depletion-induced reservoir deformation; and hydraulic fracturing.
 
+**Useful References**
+
+1. <a href="https://www.amazon.com/Reservoir-Geomechanics-Mark-D-Zoback/dp/0521146194/ref=asap_bc?ie=UTF8" target="_blank">Reservoir Geomechanics</a>. Zoback. 2007. 
+
+1. <a href="http://www.amazon.com/Fundamentals-Rock-Mechanics-John-Jaeger/dp/0632057599/ref=pd_bxgy_b_img_z" target="_blank">Fundamentals of Rock Mechanics</a>. Jaeger, Cook, and Zimmerman. 2007.
+
+
 **Exercises Coding Environment**
 
 There will some optional coding exercises in Python in this course.  If you'd like to follow along and run live code, you'll need to have a [Github](https://github.com) account.  If you don't have one already, you can register for free [here](https://github.com/signup).  Once you have an account, you should be able to click the link below to access a live coding environment for the exercises:
