@@ -8,7 +8,7 @@ Email: [john.foster@utexas.edu](mailto:john.foster@utexas.edu)
 
 **Exercises Coding Environment**
 
-There will some optional follow-along coding exercises in Python in this course.  If you'd like to follow along and run live code, you'll need to have a [Github](https://github.com) account.  If you don't have one already, you can register for free [here](https://github.com/register).  Once you have an account, you should be able to click the link below to access a live coding environment for the exercises:
+There will some optional coding exercises in Python in this course.  If you'd like to follow along and run live code, you'll need to have a [Github](https://github.com) account.  If you don't have one already, you can register for free [here](https://github.com/signup).  Once you have an account, you should be able to click the link below to access a live coding environment for the exercises:
 
 [![](https://github.com/codespaces/badge.svg)](https://codespaces.new/johnfoster-pge-utexas/GeomechanicsShortcourse/tree/exercises?quickstart=1)
 
