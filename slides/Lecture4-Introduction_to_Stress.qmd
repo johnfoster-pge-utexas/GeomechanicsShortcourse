@@ -1,0 +1,33 @@
+# Stress
+
+![](img/Lecture4-Introduction_to_Stress_2_0.png)
+
+---
+
+## Cauchy tetrahedron
+
+!["<a href="http://commons.wikimedia.org/wiki/File:Cauchy_tetrahedron.svg#mediaviewer/File:Cauchy_tetrahedron.svg">Cauchy tetrahedron</a>" by <a href="//commons.wikimedia.org/wiki/User:Sanpaz" title="User:Sanpaz">Sanpaz</a> - <span class="int-own-work">Own work</span>. <br>Licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.](img/Lecture4-Introduction_to_Stress_4_0.png){fig-align="center"}
+
+---
+
+## Stress tensor
+
+$$
+\mathbf{\sigma} = 
+\begin{bmatrix}
+\sigma_{11} & \sigma_{12} & \sigma_{13} \\
+\sigma_{21} & \sigma_{22} & \sigma_{23} \\
+\sigma_{31} & \sigma_{32} & \sigma_{33} 
+\end{bmatrix}
+$$
+
+---
+
+## Visual definition
+
+!["<a href="http://commons.wikimedia.org/wiki/File:Components_stress_tensor_cartesian.svg#mediaviewer/File:Components_stress_tensor_cartesian.svg">Components stress tensor cartesian</a>" by <a href="//commons.wikimedia.org/wiki/User:Sanpaz" title="User:Sanpaz">Sanpaz</a> - <span class="int-own-work">Own work</span>.<br> Licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.](img/Lecture4-Introduction_to_Stress_8_0.png){fig-align="center"}
+
+::: {.incremental}
+- First subscripted index refers to the index of the unit vector that is normal to the face.
+- Second subscripted index refers to the component of traction vector.
+:::
