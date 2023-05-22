@@ -4,7 +4,7 @@
 
 ---
 
-## Geographical coordinate system
+## Geographical coordinate system {.smaller}
 
 :::: {layout="[1]"}
 ![](img/Lecture10-FaultsAndFracturesAtDepth_5_0.png){fig-align="center" width=300}
