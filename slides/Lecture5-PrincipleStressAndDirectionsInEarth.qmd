@@ -119,6 +119,6 @@ $S_{33} = S_v$ must be a principle stress!
 ::: {.incremental}
 - $S_\mbox{v}$ - vertical stress magnitude
 - $S_{\mbox{Hmax}}$ - maximum horizontal principle stress magnitude
-- $S_\mbox{Hmin}$ - minimum horizontal principle stress magnitude
+- $S_\mbox{hmin}$ - minimum horizontal principle stress magnitude
 - One horizontal principle direction, usually the direction associated with $S_\mbox{Hmax}$
 :::
