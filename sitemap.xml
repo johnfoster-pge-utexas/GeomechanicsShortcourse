@@ -2,46 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/johnfoster-pge-utexas/GeomechanicsShortcourse/index.html</loc>
-    <lastmod>2023-05-23T11:31:11.872Z</lastmod>
+    <lastmod>2023-05-23T22:37:44.147Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/johnfoster-pge-utexas/GeomechanicsShortcourse/slides/Lecture15-CompressiveAndTensileFailureInVerticalWells.html</loc>
+    <lastmod>2023-05-23T22:37:45.947Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/johnfoster-pge-utexas/GeomechanicsShortcourse/slides/Lecture10-FaultsAndFracturesAtDepth.html</loc>
-    <lastmod>2023-05-23T11:31:13.400Z</lastmod>
+    <lastmod>2023-05-23T22:37:46.531Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/johnfoster-pge-utexas/GeomechanicsShortcourse/slides/Lecture14-TensileStrengthAndCriticallyStressedCrust.html</loc>
+    <lastmod>2023-05-23T22:37:46.927Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/johnfoster-pge-utexas/GeomechanicsShortcourse/slides/Lecture9-MechanismsOfOverPressure.html</loc>
-    <lastmod>2023-05-23T11:31:13.792Z</lastmod>
+    <lastmod>2023-05-23T22:37:47.371Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/johnfoster-pge-utexas/GeomechanicsShortcourse/slides/Lecture11-ConstitutiveModeling-Elasticity.html</loc>
+    <lastmod>2023-05-23T22:37:48.031Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/johnfoster-pge-utexas/GeomechanicsShortcourse/slides/Lecture12-ConstitutiveModeling-Poroelasticity.html</loc>
+    <lastmod>2023-05-23T22:37:48.455Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/johnfoster-pge-utexas/GeomechanicsShortcourse/slides/Lecture5-PrincipleStressAndDirectionsInEarth.html</loc>
-    <lastmod>2023-05-23T11:31:14.084Z</lastmod>
+    <lastmod>2023-05-23T22:37:48.803Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/johnfoster-pge-utexas/GeomechanicsShortcourse/slides/Lecture8-EffectiveStressAndStressMagnitudesAtDepth.html</loc>
-    <lastmod>2023-05-23T11:31:14.424Z</lastmod>
+    <lastmod>2023-05-23T22:37:49.219Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/johnfoster-pge-utexas/GeomechanicsShortcourse/slides/Lecture2-Introduction_Structural_Geology.html</loc>
-    <lastmod>2023-05-23T11:31:14.900Z</lastmod>
+    <lastmod>2023-05-23T22:37:49.819Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/johnfoster-pge-utexas/GeomechanicsShortcourse/slides/Lecture4-Introduction_to_Stress.html</loc>
-    <lastmod>2023-05-23T11:31:15.180Z</lastmod>
+    <lastmod>2023-05-23T22:37:50.159Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/johnfoster-pge-utexas/GeomechanicsShortcourse/slides/Lecture1-Introduction_Petroleum_Geomechanics.html</loc>
-    <lastmod>2023-05-23T11:31:15.464Z</lastmod>
+    <lastmod>2023-05-23T22:37:50.539Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/johnfoster-pge-utexas/GeomechanicsShortcourse/slides/Lecture6-AndersonFaultClassification.html</loc>
-    <lastmod>2023-05-23T11:31:15.740Z</lastmod>
+    <lastmod>2023-05-23T22:37:50.871Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/johnfoster-pge-utexas/GeomechanicsShortcourse/slides/Lecture16-StressResolutionInDeviatedWells.html</loc>
+    <lastmod>2023-05-23T22:37:51.279Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/johnfoster-pge-utexas/GeomechanicsShortcourse/slides/Lecture3-Linear_Algebra.html</loc>
-    <lastmod>2023-05-23T11:31:16.052Z</lastmod>
+    <lastmod>2023-05-23T22:37:51.655Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/johnfoster-pge-utexas/GeomechanicsShortcourse/slides/Lecture7-EstimatingVerticalStress.html</loc>
-    <lastmod>2023-05-23T11:31:16.320Z</lastmod>
+    <lastmod>2023-05-23T22:37:51.999Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/johnfoster-pge-utexas/GeomechanicsShortcourse/slides/Lecture13-ConstitutiveModeling-InelasticBehavoir.html</loc>
+    <lastmod>2023-05-23T22:37:52.619Z</lastmod>
   </url>
 </urlset>
