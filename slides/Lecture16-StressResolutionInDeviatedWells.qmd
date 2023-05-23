@@ -1,0 +1,116 @@
+## State of stress surrounding an arbitrarily deviated well
+
+
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 8.1b, pp. 237)](img/Lecture16-StressResolutionInDeviatedWells_1_0.png)
+
+---
+
+## Stresses in the wellbore coordinate system
+
+$$
+\mathbf{R}_B = \begin{bmatrix}
+      \cos\delta \cos\phi & \sin\delta \cos\phi & -\sin\phi \\
+      -\sin\delta & \cos\delta & 0 \\
+      \cos\delta\sin\phi & \sin\delta\sin\phi & \cos\phi
+      \end{bmatrix}
+$$
+
+$$
+\mathbf{S}_B = \mathbf{R}_B \mathbf{S}_G \mathbf{R}_B^T
+$$
+
+$$
+\mathbf{S}_B = \mathbf{R}_B (\mathbf{R}_G^T \mathbf{S} \mathbf{R}_G) \mathbf{R}_B^T
+$$
+
+---
+
+## Stress at wellbore wall
+
+\begin{align}
+\sigma_{zz} &= \sigma_{33} - 2 \nu (\sigma_{11} - \sigma_{22})\cos 2\theta - 4 \nu \sigma_{12} \sin 2 \theta \\
+\sigma_{\theta\theta} &= \sigma_{11} + \sigma_{22} - 2(\sigma_{11} - \sigma_{22})\cos 2\theta - 4 \sigma_{12} \sin 2\theta - \Delta P \\
+\tau_{\theta z} &= 2 (\sigma_{23} \cos \theta - \sigma_{13} \sin \theta) \\
+\sigma_{rr} &= \Delta P
+\end{align}
+
+---
+
+## Principal effective stresses around the wellbore {.smaller}
+
+![](img/wellbore_wall.png){width=300 fig-align="center"}
+
+<table style="border: hidden; " align="center">
+  <tr>
+    <td style="border: hidden; text-align: center">$\quad\quad$\begin{align}\sigma_{t\mbox{max}} &=\frac{1}{2}\left(\sigma_{zz} + \sigma_{\theta\theta} + \sqrt{(\sigma_{zz} - \sigma_{\theta\theta})^2 + 4 \tau_{\theta z}^2}\right) \\
+    \sigma_{t\mbox{min}} &=\frac{1}{2}\left(\sigma_{zz} + \sigma_{\theta\theta} - \sqrt{(\sigma_{zz} - \sigma_{\theta\theta})^2 + 4 \tau_{\theta z}^2}\right)
+    \end{align}</td>
+  </tr>
+</table>
+
+---
+
+## Example: Reverse faulting {.smaller}
+
+<table style="border: hidden; " align="center">
+  <tr>
+    <td style="border: hidden; text-align: center">$$\mathbf{S} = \begin{bmatrix} 30 & 0 & 0 \\ 0 & 25 & 0 \\ 0 & 0 & 20 \end{bmatrix}$$</td>
+    <td style="border: hidden; text-align: center">$$\quad\quad\quad$$</td>
+    <td style="border: hidden; text-align: center">\begin{align} \alpha &= 90^{\circ} & \mbox{Azimuth of } S_{Hmax} \\ \beta &= 0^{\circ} & S_1 = S_{Hmax} \\ \gamma &= 0^{\circ} & S_2 = S_{hmin} \end{align}</td>
+  </tr>
+</table>
+
+Find the minimum and maximum tangential stress for an open hole well that is oriented $20^\circ$ from North and deviated $20^{\circ}$ from vertical at a depth of $2$ km.  Assume a hydrostatic pore pressure gradient, a Poisson ration of $0.2$, and a balanced drilling operation.
+
+&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 8.1a, pp. 237)
+
+---
+
+## Lower hemisphere projection
+
+
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 8.1a, pp. 237)](img/lower_hemi.png){width=250}
+
+---
+
+## Example
+
+![](img/deviate_ex.png){width=500}
+
+---
+
+## Examples: Breakout initiation
+
+<table style="border: hidden; " align="center">
+<tr>
+    <td style="border: hidden; text-align: center">Normal</td>
+    <td style="border: hidden; text-align: center">Strike-slip</td>
+    <td style="border: hidden; text-align: center">Reverse</td>
+  </tr>
+  <tr>
+    <td style="border: hidden; text-align: center"><img src="img/breakout_dev_well.png" width=250></td>
+    <td style="border: hidden; text-align: center"><img src="img/breakout_dev_well2.png" width=250></td>
+    <td style="border: hidden; text-align: center"><img src="img/breakout_dev_well3.png" width=250></td>
+  </tr>
+</table>
+
+&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 8.2a,b,c, pp. 240)
+
+---
+
+## Examples: Drilling induced tensile fracture {.smaller}
+
+<table style="border: hidden; " align="center">
+<tr>
+    <td style="border: hidden; text-align: center">Normal</td>
+    <td style="border: hidden; text-align: center">Strike-slip</td>
+    <td style="border: hidden; text-align: center">Reverse</td>
+  </tr>
+  <tr>
+    <td style="border: hidden; text-align: center"><img src="img/tensile_dev_well1.png" width=250></td>
+    <td style="border: hidden; text-align: center"><img src="img/tensile_dev_well2.png" width=250></td>
+    <td style="border: hidden; text-align: center"><img src="img/tensile_dev_well3.png" width=250></td>
+  </tr>
+</table>
+
+&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 8.3a,b,c, pp. 240)

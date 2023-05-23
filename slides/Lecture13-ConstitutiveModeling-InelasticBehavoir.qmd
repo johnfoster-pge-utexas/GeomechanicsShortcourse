@@ -1,0 +1,302 @@
+# Types of tests on rocks
+
+## Hydrostatic compression
+
+::: {.figure}
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 4.1, pp. 86)](img/hc.png){width=230}
+:::
+
+$$S_0 = S_1 = S_2 = S_3$$
+
+---
+
+## Uniaxial compression
+
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 4.1, pp. 86)](img/uxc.png){width=150}
+
+$$S_0 \ne 0 \quad S_2 = S_3 = 0$$
+___
+
+## Triaxial compression
+
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 4.1, pp. 86)](img/txc.png){width=200}
+
+$$S_1 > S_2 = S_3$$
+
+---
+
+## Triaxial extension
+
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 4.1, pp. 86)](img/txe.png){width=180}
+
+$$S_1 = S_2 > S_3$$
+
+---
+
+## True triaxial
+
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 4.1, pp. 86)](img/true_txc.png){width=250}
+
+$$S_1 \ne S_2 \ne S_3$$
+
+---
+
+
+## Mohr's circles
+
+$$\tau_f = \dfrac{1}{2}(\sigma_1 - \sigma_3) \sin(2\beta)$$
+
+$$\sigma_n = \dfrac{1}{2}(\sigma + \sigma_3) + \dfrac{1}{2}(\sigma_1 -\sigma_3) \cos(2 \beta)$$
+
+---
+
+## Mohr Envelope
+
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 4.2b, pp. 88)](img/mohr_envelope.png){width=500}
+
+---
+
+
+## Linearized Mohr Envelope
+
+<table style="border: hidden; " align="center">
+  <tr>
+    <td style="border: hidden; text-align: center"><img src="img/linear_mohr_envelope.png" width=500></td>
+    <td style="border: hidden; text-align: center"><img src="img/mohr_sample.png" width=200></td>
+  </tr>
+</table>
+
+&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 4.2a,c pp. 88)
+
+
+## Mohr-Coulomb failure
+
+$$
+\tau = S_0 + \sigma_n \mu_i
+$$
+
+$$
+C_0 = 2 S_0\left( \sqrt{\mu_i^2 + 1} + \mu_i \right)
+$$
+
+## Triaxial tests on sandstone
+
+<table style="border: hidden; " align="center">
+  <tr>
+    <td style="border: hidden; text-align: center"><img src="img/mohr_triaxial_sandstone.png" width=500></td>
+    <td style="border: hidden; text-align: center">$\mu_i = \dfrac{n-1}{2\sqrt{n}}$</td>
+  </tr>
+</table>
+
+&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 4.3a pp. 90)
+
+
+## Mohr Envelope for Sandstone
+
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 4.3a, pp. 88)](img/mohr_lab_data.png){width=500}
+
+---
+
+## Cohesion and internal friction data
+
+
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 4.4, pp. 91)](img/mohr_rock_data.png){width=700}
+
+---
+
+## Cohesion and internal friction data
+
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 4.5, pp. 92)](img/mohr_wellbore.png){width=500}
+
+---
+
+## Yield surface
+
+![](img/mohr_yield_surface.png){width=500}
+
+[Mohr Coulomb Yield Surface 3Da](http://en.wikipedia.org/wiki/File:Mohr_Coulomb_Yield_Surface_3Da.png#mediaviewer/File:Mohr_Coulomb_Yield_Surface_3Da.png). Licensed under CC BY-SA 3.0 via Wikipedia
+
+---
+
+## $\pi$-plane
+
+::: {.figure}
+![[Mohr Coulomb Yield Surface 3Db](http://en.wikipedia.org/wiki/File:Mohr_Coulomb_Yield_Surface_3Db.png#mediaviewer/File:Mohr_Coulomb_Yield_Surface_3Db.png). Licensed under CC BY-SA 3.0 via Wikipedia](img/mohr_pi_plane.png){width=600 fig-align="center"}
+:::
+
+---
+
+## Pressure dependence
+
+![&copy; Blackwell Publishing [Jaeger, et al., *Fundamentals of Rock Mechanics*](http://www.amazon.com/Fundamentals-Rock-Mechanics-John-Jaeger/dp/0632057599/ref=sr_1_1?ie=UTF8&qid=1425992952&sr=8-1&keywords=fundamentals+of+rock+mechanics) (Fig. 4.5, pp. 86)](img/carr_marble.png){width=350}
+
+---
+
+## Other failure criteria
+
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 4.6, pp. 94)](img/other_hydrostat.png){width=400}
+
+---
+
+## Recall: Mohr Envelope for Sandstone
+
+
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 4.3a, pp. 88)](img/mohr_lab_data.png){width=500}
+
+---
+
+
+## Hoek-Brown criterion (parabolic fitting) {.smaller .scrollable}
+
+$$
+\sigma_1 = \sigma_3 + C_0 \sqrt{m \dfrac{\sigma_3}{C_0} + s}
+$$
+
+$m$ and $s$ are fitting parameters that depend on rock properties and the degress of fracturing.  Typical values
+
+::: {.fragment}
+|Typical Range of $m$|Types of rocks|
+|:----------|:-------------|
+|$5 < m < 8$| carbonate rocks (dolomite, limestone, marble)|
+|$4 < m < 10$| lithified argillaceous rocks (sandstones, quartizite)|
+|$15 < m < 24$| arenaceous rocks (andesite, dolerite, diabase, rhyolite)|
+|$22 < m < 33$| course-grained polyminerallic gineous and metamorphic (amphibolite, gabbro, gneiss, norite, quartz-diorite)|
+
+Intact Rocks -- $s \to 1$
+
+Completely Granualated -- $s \to 0$
+:::
+
+---
+
+## Lade Criterion {.smaller}
+
+$$
+\left( \frac{I_1^3}{I_3} - 27 \right) \left( \frac{I_1}{p_a} \right)^{m'} =  \eta_1
+$$
+
+with 
+
+$I_1 = S_{ii} = S_1 + S_2 + S_3$ (first invariant of $\mathbf{S}$)
+
+$I_3 = \det(\mathbf{S}) = S_1  S_2  S_3$ (third invariant of $\mathbf{S}$)
+
+$p_a$ is atmospheric pressure, $m'$ and $n_1$ are material constants
+
+---
+
+## Modified Lade Criterion (dependece on $\sigma_2$) {.smaller .scrollable}
+
+$$
+\left( \frac{(I_1')^3}{I_3'} \right) =  27 + \eta
+$$
+
+with 
+
+$I_1' = (\sigma_1 + S) + (\sigma_2 + S) + (\sigma_3 + S)$
+
+$I_3' = (\sigma_1 + S) (\sigma_2 + S) (\sigma_3 + S)$
+
+$S = \dfrac{S_0}{\tan\phi}$
+
+$\eta = \dfrac{4 (\tan\phi)^2 (9- 7 \sin\phi)}{1 - \sin \phi)}$
+
+$\tan\phi = \mu_i$ and $S_0$ from Mohr-Coulomb criterion
+
+---
+
+## Comparison
+
+<table style="border: hidden; " align="center">
+  <tr>
+    <td style="border: hidden; text-align: center"><img src="img/mc_limestone.png" width=300></td>
+    <td style="border: hidden; text-align: center"><img src="img/ml_limestone.png" width=300></td>
+  </tr>
+  <tr>
+    <td style="border: hidden; text-align: center">Mohr-Coulomb</td>
+    <td style="border: hidden; text-align: center">modified Lade</td>
+  </tr>
+</table>
+
+&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 4.8b and 4.9b, pp. 96-97)
+
+
+## Others
+
+ * modified Wiebols-Cook
+ * Druker-Prager
+ * many more!
+
+## Strength anisotropy
+
+<table style="border: hidden; " align="center">
+  <tr>
+    <td style="border: hidden; text-align: left">
+        <img src="img/bedding.png" width=100>
+  </td>
+  <td style="border: hidden; text-align: center">
+      <img src="img/two_strengths.png" width=350>
+  <td style="border: hidden; text-align: center">
+      <img src="img/beta_effect.png" width=290>
+  </td>
+  </tr>
+</table>
+
+$$
+\sigma_1 = \sigma_3 \frac{2 (S_w + \mu_w \sigma_3)}{(1-\mu_w \cot\beta_w)\sin 2\beta}
+$$
+
+&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 4.12, pp. 106)
+
+---
+
+## Recall: Yield surface
+
+![[Mohr Coulomb Yield Surface 3Da](http://en.wikipedia.org/wiki/File:Mohr_Coulomb_Yield_Surface_3Da.png#mediaviewer/File:Mohr_Coulomb_Yield_Surface_3Da.png). Licensed under CC BY-SA 3.0 via Wikipedia](img/mohr_yield_surface.png){width=500}
+
+
+## Shear enhanced compaction
+
+<table style="border: hidden; " align="center">
+  <tr>
+    <td style="border: hidden; text-align: center"><img src="img/cap_data.png" width=450></td>
+  </tr>
+  <tr>
+  <td style="border: hidden; text-align: center">Porosity loss in sandstone</td>
+  </tr>
+</table>
+
+&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 4.20, pp. 120)
+
+## Cam-Clay model
+
+
+$$
+M^2 p^2 - M^2 p_0 p + q^2 = 0
+$$
+
+with
+
+$$
+p = \dfrac{1}{3}\left(\sigma_1 + \sigma_2 + \sigma_3\right)
+$$
+
+$$
+q^2 = \dfrac{1}{2} \left((S_1 - S_2)^2 + (S_2 - S_3)^2 + (S_1 - S_3)^2 \right)
+$$
+
+$$
+M = \dfrac{q}{p}
+$$
+
+---
+
+## Cam-Clay model (cont'd)
+
+
+![](img/cam_clay.png){width=500}
+
+## Kayenta
+
+
+![R.M. Brannon, A.F. Fossum, and O.E. Strack: [Kayenta: Theory and User’s Guide.](http://www.mech.utah.edu/~brannon/public/GeoModel8.pdf)Tech. rep. Sandia National Laboratories, 2009.](img/geomodel.png){width=700}

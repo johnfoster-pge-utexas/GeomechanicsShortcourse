@@ -1,0 +1,94 @@
+## Tensile Strength of Rocks
+
+- Relatively unimportant!
+- Reasons:
+  - Tensile strength is low compared to compressive strength.
+  - When a large enough volume of rock is considered, flaws are bound to exist making the tensile strength near zero.
+  - *In situ* stress at depth is never tensile.
+
+## Opening mode fracture (Mode I)
+
+$$
+K_{Ic} \ge K_I = (P_f - S_3) \pi \sqrt{L}
+$$
+
+
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 4.21, pp. 122)](img/toughness.png){width=600}
+
+---
+
+## Recall: Slip on faults
+
+$$
+\dfrac{\tau}{\sigma_n} = \mu
+$$
+
+Coulomb failure function
+
+$$
+f = \tau - \mu \sigma_n \le 0
+$$
+
+---
+
+## Critically stressed crust
+
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 4.25, pp. 129)](img/crit_stress_crust.png){width=600}
+
+---
+
+## Stress magnitudes controlled by frictional strength
+
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 4.26, pp. 129)](img/stress_control_friction.png){width=300}
+
+---
+
+## Limits on *in situ* stress
+
+<table style="border: hidden; " align="center">
+  <tr>
+    <td style="border: hidden; text-align: center"><img src="img/arbitrary_faults.png" width=400></td>
+    <td style="border: hidden; text-align: center"><img src="img/mohr_crit_fault.png" width=400></td>
+  </tr>
+</table>
+
+Optimal angle for frictional sliding:
+
+$$
+\beta = \frac{\pi}{4} + \frac{1}{2} \tan^{-1}\mu
+$$
+
+&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 4.27b,c, pp. 131)
+
+---
+
+## Principle stress ratio
+
+$$
+\frac{\sigma_1}{\sigma_3} = \frac{S_1 - P_p}{S_3 - P_p} = \left(\sqrt{\mu^2 + 1}+\mu^2\right)^2
+$$
+
+Asuming $\mu = 0.6$
+
+$$
+\frac{\sigma_1}{\sigma_3} = 3.1
+$$
+
+---
+
+## Stress bounds {.smaller}
+
+:::: {layout="[1, 1, 1]"}
+![$\dfrac{S_v - P_p}{S_{hmin} - P_p} \le \left(\sqrt{\mu^2 + 1}+\mu^2\right)$](img/stress_bound_1.png)
+
+![$\dfrac{S_{Hmax} - P_p}{S_{hmin} - P_p} \le \left(\sqrt{\mu^2 + 1}+\mu^2\right)$](img/stress_bound_2.png)
+
+![$\dfrac{S_{Hmax} - P_p}{S_v - P_p} \le \left(\sqrt{\mu^2 + 1}+\mu^2\right)$](img/stress_bound_3.png)
+::::
+
+---
+
+## Pore pressure, stress difference, and fault slip
+
+
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 4.30, pp. 136)](img/pp_sd.png){width=550}

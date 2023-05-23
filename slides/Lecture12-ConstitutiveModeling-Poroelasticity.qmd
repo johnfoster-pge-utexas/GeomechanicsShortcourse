@@ -1,0 +1,148 @@
+## Poroelasticity Assumptions
+
+ 1. There is an interconnected pore system uniformly saturated with fluid.
+ 2. The total volume of the pore system is small compared to the volume of the rock.
+ 3. The pore pressure, the total stress acting on the rock externally, and the stresses acting on the grains are statistically defined.
+
+---
+
+## Effective stress
+
+**Terzaghi definition**
+
+$$
+\boldsymbol{\sigma} = \mathbf{S} - P_p \mathbf{I}
+$$
+
+::: {.fragment}
+**"Exact" effective stress**
+
+$$
+\boldsymbol{\sigma} = \mathbf{S} - \alpha P_p \mathbf{I}
+$$
+
+$\alpha$ is called Biot's coefficient
+:::
+
+---
+
+## Biot's coefficeint
+
+$$
+\alpha = 1 - \dfrac{K_T}{K_S}
+$$
+
+::: {.fragment}
+For sand
+
+$$
+K_{S} >> K_T \quad \quad \alpha \approx 1
+$$
+:::
+
+::: {.fragment}
+For rocks
+
+$$
+\alpha \approx \frac{2}{3}
+$$
+:::
+
+---
+
+## Biot's coefficient (cont.)
+
+::: {.figure}
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 3.5c, pp. 69)](img/biots_coef.png){width=400}
+:::
+
+---
+
+## Poroelasticity = viscoelasticty
+
+<table style="border: hidden; " align="center">
+  <tr>
+    <td style="border: hidden; text-align: center"><img src="img/visco1.png" width=300></td>
+    <td style="border: hidden; text-align: center"><img src="img/visco2.png" width=300></td>
+  </tr>
+</table>
+
+&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 3.10c,d, pp. 75)
+
+---
+
+## Frequency dependence (load frame - ultrasonic)
+
+Elastic moduli measured from sonic logs will be frequency dependent in poroelastic rocks.
+
+::: {.figure}
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 3.7a, pp. 71)](img/freq_dep.png){width=400}
+:::
+
+---
+
+## Frequency dependence (sonic - ultrasonic)
+
+Elastic moduli measured from sonic logs will be frequency dependent in poroelastic rocks.
+
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 3.6b, pp. 70)](img/freq_dep2.png){width=400}
+
+---
+
+## SQRT Theory
+
+Transistion from *drained* to *undrained* behavior
+
+ * Drained limit
+    * Slow loading on very permeable media
+ * Undrained limit
+    * Fast loading on impermeable media
+
+---
+
+## Other viscous effects
+
+<table style="border: hidden; " align="center">
+  <tr>
+    <td style="border: hidden; text-align: center"><img src="img/visco3.png" width=300></td>
+    <td style="border: hidden; text-align: center"><img src="img/visco4.png" width=300></td>
+  </tr>
+</table>
+
+&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 3.10c,d, pp. 75)
+
+---
+
+## Creep
+
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 3.8, pp. 73a)](img/creep1.png){width=300}
+
+---
+
+## Constitutive model for creep
+
+Power law
+
+$$
+\varepsilon(t) = \varepsilon_0 + c t^n
+$$
+
+---
+
+## Stress relaxation
+
+::: {.figure}
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 3.11b, pp. 77)](img/stress_relax.png){width=600}
+:::
+
+---
+
+## Thermoporoelasticity
+
+
+$$
+\boldsymbol{\sigma} = \mathbf{S} - \alpha P_p \mathbf{I} - K \alpha_T \Delta T \mathbf{I}
+$$
+
+$\alpha_T$ is coefficient of thermal expansion/(contraction)
+

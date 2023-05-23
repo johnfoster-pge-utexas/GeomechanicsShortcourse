@@ -40,3 +40,15 @@ There will some optional coding exercises in Python in this course.  If you'd li
 [Lecture 9 - Mechanisms of Overpressure](./slides/Lecture9-MechanismsOfOverPressure.qmd)
 
 [Lecture 10 - Faults and Fractures at Depth](./slides/Lecture10-FaultsAndFracturesAtDepth.qmd)
+
+[Lecture 11 - Constitutive Modeling - Elastiticty](./slides/Lecture11-ConstitutiveModeling-Elasticity.qmd)
+
+[Lecture 12 - Constitutive Modeling - Poroelastiticty](./slides/Lecture12-ConstitutiveModeling-Poroelasticity.qmd)
+
+[Lecture 13 - Constitutive Modeling - Inelasticity](./slides/Lecture13-ConstitutiveModeling-InelasticBehavoir.qmd)
+
+[Lecture 14 - Tensile Strength and Critically Stressed Crust](./slides/Lecture14-TensileStrengthAndCriticallyStressedCrust.qmd)
+
+[Lecture 15 - Compressive and Tensile Failure in Vertical Wells](./slides/Lecture15-CompressiveAndTensileFailureInVerticalWells.qmd)
+
+[Lecture 16 - Stress Resolution in Deviated Wells](./slides/Lecture16-StressResolutionInDeviatedWells.qmd)
