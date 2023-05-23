@@ -242,7 +242,7 @@
     "href": "slides/Lecture5-PrincipleStressAndDirectionsInEarth.html#four-parameters-needed-to-describe-state-of-stress-in-the-earth",
     "title": "Shortcourse on Reservoir Geomechanics",
     "section": "Four parameters needed to describe state-of-stress in the earth",
-    "text": "Four parameters needed to describe state-of-stress in the earth\n\n\n\\(S_\\mbox{v}\\) - vertical stress magnitude\n\\(S_{\\mbox{Hmax}}\\) - maximum horizontal principle stress magnitude\n\\(S_\\mbox{Hmin}\\) - minimum horizontal principle stress magnitude\nOne horizontal principle direction, usually the direction associated with \\(S_\\mbox{Hmax}\\)\n\n\n\n\nShortcourse on Reservoir Geomechanics - John T. Foster - May 2023"
+    "text": "Four parameters needed to describe state-of-stress in the earth\n\n\n\\(S_\\mbox{v}\\) - vertical stress magnitude\n\\(S_{\\mbox{Hmax}}\\) - maximum horizontal principle stress magnitude\n\\(S_\\mbox{hmin}\\) - minimum horizontal principle stress magnitude\nOne horizontal principle direction, usually the direction associated with \\(S_\\mbox{Hmax}\\)\n\n\n\n\nShortcourse on Reservoir Geomechanics - John T. Foster - May 2023"
   },
   {
     "objectID": "slides/Lecture8-EffectiveStressAndStressMagnitudesAtDepth.html#effective-stress-tensor",
