@@ -52,3 +52,10 @@ There will some optional coding exercises in Python in this course.  If you'd li
 [Lecture 15 - Compressive and Tensile Failure in Vertical Wells](./slides/Lecture15-CompressiveAndTensileFailureInVerticalWells.qmd)
 
 [Lecture 16 - Stress Resolution in Deviated Wells](./slides/Lecture16-StressResolutionInDeviatedWells.qmd)
+
+[Lecture 17 - Diagnostic Testing To Determine In Situ Stress](./slides/Lecture17-DiagnosticTestingToDetermineInSituStress.qmd)
+
+[Lecture 18 - Geomechanical Case Study and Sand Production](./slides/Lecture18-GeomechanicalCaseStudy.qmd)
+
+[Lecture 19 - Reservoir Depletion](./slides/Lecture19-ReservoirDepletion.qmd)
+

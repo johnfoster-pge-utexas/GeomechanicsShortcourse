@@ -1,0 +1,121 @@
+## Hydraulic fracturing to determine $S_3$
+
+![](img/horizontal.png){width=400 fig-align="center"}
+
+---
+
+## Hydraulic fracture initiation in vertical well
+
+$$
+\sigma_{\theta \theta}^{min} = 3 S_{hmin} - S_{Hmax} - 2 P_p - \Delta P - \sigma^{\Delta T} = -T_0
+$$
+
+---
+
+## Leakoff test (mini-frac, FIT, XLOT)
+
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 7.2, pp. 211)](img/leakoff_test.png){width=400}
+
+
+::: {.notes}
+Must add the pressure in the wellbore due to the column of wellbore fluid.  Always preferable to measure pressure downhole.
+
+FBP - unstable fracture growth away from wellbore
+FPP - should be close to LOP and min. principle stress in absencse of excess fluid resistance from high viscosity fluids or turbulent flow.
+:::
+
+---
+
+## $S_3$ from instantaneous shut-in pressure
+
+
+![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 7.3, pp. 213)](img/isip1.png){width=500}
+
+---
+
+##
+
+<table style="border: hidden; " align="center">
+<tr>
+    <td style="border: hidden; text-align: center"><img src="img/isip2.png" width=500></td>
+  </tr>
+  <tr>
+    <td style="border: hidden; text-align: center"><img src="img/isip3.png" width=500></td>
+  </tr>
+</table>
+
+&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 7.3, pp. 213)
+
+---
+
+## Step-rate test
+
+<table style="border: hidden; " align="center">
+  <tr>
+    <td style="border: hidden; text-align: center"><img src="img/step-rate.png" width=500></td>
+  </tr>
+</table>
+
+&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 7.5, pp. 216)
+
+---
+
+##  Be careful!
+
+**When $S_3 \sim S_v$ integrate density logs**
+
+<table style="border: hidden; " align="center">
+  <tr>
+    <td style="border: hidden; text-align: center"><img src="img/care-s3-sv.png" width=300></td>
+  </tr>
+</table>
+
+&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 7.4, pp. 214)
+
+---
+
+## What about $S_{Hmax}$?
+
+$$
+\Delta P = P_b - P_p
+$$
+
+::: {.fragment}
+so
+
+$$
+S_{Hmax} = 3 S_{hmin} - P_b - P_p + T_0
+$$
+:::
+
+::: {.fragment}
+or
+
+$$
+S_{Hmax} = 3 S_{hmin} - P_b(T=0) - P_p
+$$
+:::
+
+## Does it work?
+
+Consider a system with compressibility $\beta_s$
+
+$$
+\beta_s = \frac{\Delta V_s}{V_s} \frac{1}{\Delta P}
+$$
+
+::: {.fragment}
+$$
+\Delta P = \frac{1}{\beta_s V_s} \Delta V_s
+$$
+:::
+
+::: {.fragment}
+$$
+\frac{\Delta P}{\Delta t} = \frac{1}{\beta_s V_s} \frac{\Delta V_s}{\Delta t}
+$$
+:::
+
+::: {.fragment}
+**Answer: Not very well.**
+:::

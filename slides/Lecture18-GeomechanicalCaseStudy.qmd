@@ -1,0 +1,104 @@
+# Geomechanical case study: Cook Inlet Alaska
+
+## To case or not to case?
+
+<table style="border: hidden; " align="center">
+<tr>
+    <td style="border: hidden; text-align: center"><img src="img/cook_inlet1.png" width=400> $\quad \quad$</td>
+    <td style="border: hidden; text-align: center"><img src="img/cook_inlet2.png" width=200></td>
+  </tr>
+</table>
+
+&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 10.21, pp. 334)
+
+---
+
+## Emperical strength model from cores
+
+$$
+C_0 = 1.745 \times 10^{-9} \rho V_p^2 -21 \mbox{MPa}
+$$
+
+&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Table 4.1, Eq. 5, pp. 113)
+
+---
+
+## Pressure drawdown and sand production {.smaller .scrollable}
+
+<table style="border: hidden; " align="center">
+<tr>
+    <td style="border: hidden; text-align: center"><img src="img/cook_inlet_pd1.png" width=200>$\quad \quad$</td>
+    <td style="border: hidden; text-align: center"><img src="img/cook_inlet_pd2.png" width=200></td>
+  </tr>
+  <tr>
+  <td style="border: hidden; text-align: center">
+  500 psi slow drawdown
+  </td>
+  <td style="border: hidden; text-align: center">
+  $\sim 60^\circ$ breakouts
+  </td>
+  </tr>
+  <tr>
+    <td style="border: hidden; text-align: center"><img src="img/cook_inlet_pd3.png" width=200>$\quad \quad$</td>
+    <td style="border: hidden; text-align: center"><img src="img/cook_inlet_pd4.png" width=200></td>
+  </tr>
+   <td style="border: hidden; text-align: center">
+  1000 psi rapid drawdown
+  </td>
+  <td style="border: hidden; text-align: center">
+  $> 90^\circ$ breakouts
+  </td>
+</table>
+
+&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 10.22, pp. 335)
+
+---
+
+## Preventing sand production by limiting production rate
+
+<table style="border: hidden; " align="center">
+<tr>
+    <td style="border: hidden; text-align: center"><img src="img/sand_production1.png" width=450>$\quad \quad$</td>
+  </tr>
+</table>
+
+&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 10.23, pp. 336)
+
+---
+
+## Preventing sand production with perforation orientation
+
+<table style="border: hidden; " align="center">
+<tr>
+    <td style="border: hidden; text-align: center"><img src="img/sand_perforation1.png" width=450>$\quad \quad$</td>
+  </tr>
+</table>
+
+&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 10.24a, pp. 337)
+
+---
+
+##
+
+<table style="border: hidden; " align="center">
+<tr>
+    <td style="border: hidden; text-align: center"><img src="img/sand_perforation3.png" width=450>$\quad \quad$</td>
+  </tr>
+</table>
+
+&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 10.25, pp. 338)
+
+---
+
+## Preventing sand production with azimuth changes
+
+
+**Considering fixed horizontal perforations**
+
+<table style="border: hidden; " align="center">
+<tr>
+    <td style="border: hidden; text-align: center"><img src="img/sand_perforation2.png" width=450>$\quad \quad$</td>
+  </tr>
+</table>
+
+&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 10.24b, pp. 337)
