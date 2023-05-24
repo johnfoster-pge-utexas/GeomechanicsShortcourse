@@ -525,18 +525,11 @@
     "text": "Frequency dependence (load frame - ultrasonic)\nElastic moduli measured from sonic logs will be frequency dependent in poroelastic rocks.\n\n\n\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 3.7a, pp. 71)"
   },
   {
-    "objectID": "slides/Lecture12-ConstitutiveModeling-Poroelasticity.html#frequency-dependence-sonic---ultrasonic",
-    "href": "slides/Lecture12-ConstitutiveModeling-Poroelasticity.html#frequency-dependence-sonic---ultrasonic",
+    "objectID": "slides/Lecture12-ConstitutiveModeling-Poroelasticity.html#drainedundrained-limits",
+    "href": "slides/Lecture12-ConstitutiveModeling-Poroelasticity.html#drainedundrained-limits",
     "title": "Shortcourse on Reservoir Geomechanics",
-    "section": "Frequency dependence (sonic - ultrasonic)",
-    "text": "Frequency dependence (sonic - ultrasonic)\nElastic moduli measured from sonic logs will be frequency dependent in poroelastic rocks.\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 3.6b, pp. 70)"
-  },
-  {
-    "objectID": "slides/Lecture12-ConstitutiveModeling-Poroelasticity.html#sqrt-theory",
-    "href": "slides/Lecture12-ConstitutiveModeling-Poroelasticity.html#sqrt-theory",
-    "title": "Shortcourse on Reservoir Geomechanics",
-    "section": "SQRT Theory",
-    "text": "SQRT Theory\nTransistion from drained to undrained behavior\n\nDrained limit\n\nSlow loading on very permeable media\n\nUndrained limit\n\nFast loading on impermeable media"
+    "section": "Drained/Undrained Limits",
+    "text": "Drained/Undrained Limits\n\nDrained limit\n\nSlow loading on very permeable media\n\nUndrained limit\n\nFast loading on impermeable media"
   },
   {
     "objectID": "slides/Lecture12-ConstitutiveModeling-Poroelasticity.html#other-viscous-effects",
