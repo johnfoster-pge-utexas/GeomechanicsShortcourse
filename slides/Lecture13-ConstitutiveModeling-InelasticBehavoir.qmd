@@ -104,7 +104,7 @@ $$
 
 ---
 
-## Cohesion and internal friction data
+## Relating to wellbore problems 
 
 ![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 4.5, pp. 92)](img/mohr_wellbore.png){width=500}
 
