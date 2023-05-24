@@ -79,19 +79,9 @@ Elastic moduli measured from sonic logs will be frequency dependent in poroelast
 ![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 3.7a, pp. 71)](img/freq_dep.png){width=400}
 :::
 
----
 
-## Frequency dependence (sonic - ultrasonic)
 
-Elastic moduli measured from sonic logs will be frequency dependent in poroelastic rocks.
-
-![&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 3.6b, pp. 70)](img/freq_dep2.png){width=400}
-
----
-
-## SQRT Theory
-
-Transistion from *drained* to *undrained* behavior
+## Drained/Undrained Limits 
 
  * Drained limit
     * Slow loading on very permeable media
