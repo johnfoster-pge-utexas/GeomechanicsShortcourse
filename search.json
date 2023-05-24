@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Shortcourse on Reservoir Geomechanics",
     "section": "",
-    "text": "Intructor\nName: John T. Foster, PhD\nEmail: john.foster@utexas.edu\nCourse Description This is a short course on petroleum reservoir geomechanics. The primary emphasis in this course is basic stress and strain analysis; pore pressure and in situ stress estimation and measurement; deformation mechanisms in rock; rock fracture description and analysis; wellbore stresses and failure; wellbore stability analysis; fault stability analysis; depletion-induced reservoir deformation; and hydraulic fracturing.\nUseful References\n\nReservoir Geomechanics. Zoback. 2007.\nFundamentals of Rock Mechanics. Jaeger, Cook, and Zimmerman. 2007.\n\nExercises Coding Environment\nThere will some optional coding exercises in Python in this course. If you’d like to follow along and run live code, you’ll need to have a Github account. If you don’t have one already, you can register for free here. Once you have an account, you should be able to click the link below to access a live coding environment for the exercises:\n\n\n\n\n\nLectures\nLecture 1 - Introduction\nLecture 2 - Introduction to Stuctural Geology\nLecture 3 - Linear Algebra\nLecture 4 - Introduction to Stress\nLecture 5 - Principle Stress And Directions In Earth\nLecture 6 - Anderson Fault Classification\nLecture 7 - Estimating Vertical Stress\nLecture 8 - Effective Stress and Stress Magnitudes at Depth\nLecture 9 - Mechanisms of Overpressure\nLecture 10 - Faults and Fractures at Depth\nLecture 11 - Constitutive Modeling - Elastiticty\nLecture 12 - Constitutive Modeling - Poroelastiticty\nLecture 13 - Constitutive Modeling - Inelasticity\nLecture 14 - Tensile Strength and Critically Stressed Crust\nLecture 15 - Compressive and Tensile Failure in Vertical Wells\nLecture 16 - Stress Resolution in Deviated Wells"
+    "text": "Intructor\nName: John T. Foster, PhD\nEmail: john.foster@utexas.edu\nCourse Description This is a short course on petroleum reservoir geomechanics. The primary emphasis in this course is basic stress and strain analysis; pore pressure and in situ stress estimation and measurement; deformation mechanisms in rock; rock fracture description and analysis; wellbore stresses and failure; wellbore stability analysis; fault stability analysis; depletion-induced reservoir deformation; and hydraulic fracturing.\nUseful References\n\nReservoir Geomechanics. Zoback. 2007.\nFundamentals of Rock Mechanics. Jaeger, Cook, and Zimmerman. 2007.\n\nExercises Coding Environment\nThere will some optional coding exercises in Python in this course. If you’d like to follow along and run live code, you’ll need to have a Github account. If you don’t have one already, you can register for free here. Once you have an account, you should be able to click the link below to access a live coding environment for the exercises:\n\n\n\n\n\nLectures\nLecture 1 - Introduction\nLecture 2 - Introduction to Stuctural Geology\nLecture 3 - Linear Algebra\nLecture 4 - Introduction to Stress\nLecture 5 - Principle Stress And Directions In Earth\nLecture 6 - Anderson Fault Classification\nLecture 7 - Estimating Vertical Stress\nLecture 8 - Effective Stress and Stress Magnitudes at Depth\nLecture 9 - Mechanisms of Overpressure\nLecture 10 - Faults and Fractures at Depth\nLecture 11 - Constitutive Modeling - Elastiticty\nLecture 12 - Constitutive Modeling - Poroelastiticty\nLecture 13 - Constitutive Modeling - Inelasticity\nLecture 14 - Tensile Strength and Critically Stressed Crust\nLecture 15 - Compressive and Tensile Failure in Vertical Wells\nLecture 16 - Stress Resolution in Deviated Wells\nLecture 17 - Diagnostic Testing To Determine In Situ Stress\nLecture 18 - Geomechanical Case Study and Sand Production\nLecture 19 - Reservoir Depletion"
   },
   {
     "objectID": "slides/Lecture15-CompressiveAndTensileFailureInVerticalWells.html#stress-around-circular-cavity",
@@ -427,6 +427,153 @@
     "text": "Porosity inference from \\(P\\)-waves\n\\(P_p = S_v + \\left(\\frac{1}{\\beta} \\ln\\left(\\frac{\\phi}{\\phi_0}\\right)\\right) \\quad \\quad \\phi = 1 - \\left(\\frac{\\Delta t_{ma}}{\\Delta t}\\right)^{\\frac{1}{f}}\\)\n\n\n\n\n\n\nCompaction\n\n\n\n\n\n\n\n\\(P\\)-wave\n\n\n\n\n\n\n\nPore pressures\n\n\n\n\n\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Figs. 2.16a,b, pp. 48, Fig. 2.8b, pp. 36)"
   },
   {
+    "objectID": "slides/Lecture19-ReservoirDepletion.html#effects-of-reservior-depletion",
+    "href": "slides/Lecture19-ReservoirDepletion.html#effects-of-reservior-depletion",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Effects of reservior depletion",
+    "text": "Effects of reservior depletion\n\n\n\n\n\n\n\n\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 10.21, pp. 380)"
+  },
+  {
+    "objectID": "slides/Lecture19-ReservoirDepletion.html#estimating-stress-changes-in-depleting-reserviors",
+    "href": "slides/Lecture19-ReservoirDepletion.html#estimating-stress-changes-in-depleting-reserviors",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Estimating stress changes in depleting reserviors",
+    "text": "Estimating stress changes in depleting reserviors\n\\[\nS_{Hor} = S_{Hmax} = S_{hmin} = \\frac{\\nu}{1-\\nu} S_v + \\alpha P_p \\left(1 - \\frac{\\nu}{1-\\nu}\\right)\n\\]\n\n\\[\n\\frac{{\\rm d}S_{Hor}}{{\\rm d}P_p} = \\alpha \\frac{1 - 2 \\nu}{\\nu - 1} \\qquad \\mbox{during production}\n\\]\n\n\n\\[\n\\Delta S_{Hor} = \\alpha \\frac{1 - 2 \\nu}{\\nu - 1} \\Delta P_p\n\\]\n\n\nTaking \\(\\nu = \\frac{1}{4}\\) and \\(\\alpha = 1\\)\n\\[\n\\Delta S_{Hor} \\sim \\frac{2}{3} \\Delta P_p\n\\]"
+  },
+  {
+    "objectID": "slides/Lecture19-ReservoirDepletion.html#comparison-of-theory-and-observation",
+    "href": "slides/Lecture19-ReservoirDepletion.html#comparison-of-theory-and-observation",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Comparison of theory and observation",
+    "text": "Comparison of theory and observation\n\n\n\n\n\n\n\n\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 12.2, pp. 382)"
+  },
+  {
+    "objectID": "slides/Lecture19-ReservoirDepletion.html#production-induced-faulting",
+    "href": "slides/Lecture19-ReservoirDepletion.html#production-induced-faulting",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Production induced faulting",
+    "text": "Production induced faulting\n\\[\n\\frac{S_v - (Pp - \\Delta P_p)}{(S_{hmin}-\\Delta S_{hmin}) - (Pp - \\Delta P_p)} = (\\sqrt{\\mu^2+1}+\\mu)^2\n\\]\n\nSimplification leads to\n\\[\n\\frac{\\Delta S_{Hmin}}{\\Delta P_p} = 1 - \\frac{1}{(\\sqrt{\\mu^2+1}+\\mu)^2}\n\\]\n\n\nFor \\(\\mu = 0.6\\)\n\\[\n\\frac{\\Delta S_{Hmin}}{\\Delta P_p} = 0.67\n\\]"
+  },
+  {
+    "objectID": "slides/Lecture19-ReservoirDepletion.html#reservoir-space-plot",
+    "href": "slides/Lecture19-ReservoirDepletion.html#reservoir-space-plot",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Reservoir space plot",
+    "text": "Reservoir space plot\n\n\n\n\n\n\n\n\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 12.4a, pp. 386)"
+  },
+  {
+    "objectID": "slides/Lecture19-ReservoirDepletion.html#gom-field-x",
+    "href": "slides/Lecture19-ReservoirDepletion.html#gom-field-x",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "GOM Field X",
+    "text": "GOM Field X\n\n\n\n\n\n\n\n\n\n\n\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 12.3ab, pp. 383)"
+  },
+  {
+    "objectID": "slides/Lecture19-ReservoirDepletion.html#section",
+    "href": "slides/Lecture19-ReservoirDepletion.html#section",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "",
+    "text": "© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 12.4b, pp. 387)"
+  },
+  {
+    "objectID": "slides/Lecture19-ReservoirDepletion.html#valhall-field-in-north-sea",
+    "href": "slides/Lecture19-ReservoirDepletion.html#valhall-field-in-north-sea",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Valhall field in North Sea",
+    "text": "Valhall field in North Sea\n\n\n\n\n\n\n\n\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 12.5, pp. 388)"
+  },
+  {
+    "objectID": "slides/Lecture19-ReservoirDepletion.html#stress-rotations-with-depletion",
+    "href": "slides/Lecture19-ReservoirDepletion.html#stress-rotations-with-depletion",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Stress rotations with depletion",
+    "text": "Stress rotations with depletion\n\n\n\n\n\\(\\qquad \\qquad\\)\n\n\n\n\n\n\n\nOriginal\n\n\nDepleted\n\n\n\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 12.6ab, pp. 391)"
+  },
+  {
+    "objectID": "slides/Lecture19-ReservoirDepletion.html#rotation-angle-gamma-near-the-fault-due-to-depletion",
+    "href": "slides/Lecture19-ReservoirDepletion.html#rotation-angle-gamma-near-the-fault-due-to-depletion",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Rotation angle, \\(\\gamma\\) near the fault due to depletion",
+    "text": "Rotation angle, \\(\\gamma\\) near the fault due to depletion\n\\[\n\\gamma = \\frac{1}{2} \\tan^{-1}\\left( \\frac{A q \\sin(2 \\theta)}{1+A q \\cos(2 \\theta)} \\right)\n\\]\nwith\n\\[\nA = \\frac{\\Delta S_{hmin}}{\\Delta P_p}\n\\]\nand\n\\[\nq = \\frac{\\Delta P_p}{S_{Hmax} - S_{hmin}}\n\\]"
+  },
+  {
+    "objectID": "slides/Lecture19-ReservoirDepletion.html#subsidence",
+    "href": "slides/Lecture19-ReservoirDepletion.html#subsidence",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Subsidence",
+    "text": "Subsidence\n\n\n\n\n\n\n\n\n\nSource: Wikimedia Commons – Public Domain"
+  },
+  {
+    "objectID": "slides/Lecture19-ReservoirDepletion.html#recall-compaction-curves",
+    "href": "slides/Lecture19-ReservoirDepletion.html#recall-compaction-curves",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Recall: Compaction curves",
+    "text": "Recall: Compaction curves\n\n\n\n\n\n\n\n\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 12.11, pp. 399)"
+  },
+  {
+    "objectID": "slides/Lecture19-ReservoirDepletion.html#recall-end-cap-models",
+    "href": "slides/Lecture19-ReservoirDepletion.html#recall-end-cap-models",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Recall: End-cap models",
+    "text": "Recall: End-cap models\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 4.19, pp. 119)"
+  },
+  {
+    "objectID": "slides/Lecture19-ReservoirDepletion.html#deformation-analysis-in-reservoir-space-dars-model-of-gom-field-x",
+    "href": "slides/Lecture19-ReservoirDepletion.html#deformation-analysis-in-reservoir-space-dars-model-of-gom-field-x",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Deformation Analysis in Reservoir Space (DARS) model of GOM Field X",
+    "text": "Deformation Analysis in Reservoir Space (DARS) model of GOM Field X\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 12.12, pp. 402)"
+  },
+  {
+    "objectID": "slides/Lecture19-ReservoirDepletion.html#permeability-change-as-a-function-of-porosity-change",
+    "href": "slides/Lecture19-ReservoirDepletion.html#permeability-change-as-a-function-of-porosity-change",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Permeability change as a function of porosity change",
+    "text": "Permeability change as a function of porosity change\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 12.13a, pp. 404)"
+  },
+  {
+    "objectID": "slides/Lecture19-ReservoirDepletion.html#permeability-loss-with-depletion-in-gom-field-z",
+    "href": "slides/Lecture19-ReservoirDepletion.html#permeability-loss-with-depletion-in-gom-field-z",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Permeability loss with depletion in GOM Field Z",
+    "text": "Permeability loss with depletion in GOM Field Z\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 12.14, pp. 408)"
+  },
+  {
+    "objectID": "slides/Lecture19-ReservoirDepletion.html#idealized-resevoir-study",
+    "href": "slides/Lecture19-ReservoirDepletion.html#idealized-resevoir-study",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Idealized resevoir study",
+    "text": "Idealized resevoir study\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 12.15, pp. 410)"
+  },
+  {
+    "objectID": "slides/Lecture19-ReservoirDepletion.html#viscous-compaction-in-gom-field-z",
+    "href": "slides/Lecture19-ReservoirDepletion.html#viscous-compaction-in-gom-field-z",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Viscous compaction in GOM Field Z",
+    "text": "Viscous compaction in GOM Field Z\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 12.16, pp. 411)"
+  },
+  {
+    "objectID": "slides/Lecture19-ReservoirDepletion.html#geertsma-1973-dispacement-solution",
+    "href": "slides/Lecture19-ReservoirDepletion.html#geertsma-1973-dispacement-solution",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Geertsma (1973) dispacement solution",
+    "text": "Geertsma (1973) dispacement solution\n\n\n\n\n\\[\n    \\begin{align}\n    u_z(r,0) &= -\\frac{1}{\\pi} c_m(1-\\nu) \\frac{D}{\\left(r^2 + D^2\\right)^{3/2}} \\Delta P_p V \\\\\n    u_r(r,0) &= +\\frac{1}{\\pi} c_m(1-\\nu) \\frac{D}{\\left(r^2 + D^2\\right)^{3/2}} \\Delta P_p V\n    \\end{align}\n    \\]\n\n\n\n\n\n\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 12.17, pp. 414)"
+  },
+  {
+    "objectID": "slides/Lecture19-ReservoirDepletion.html#subsidence-and-horizontal-displacement",
+    "href": "slides/Lecture19-ReservoirDepletion.html#subsidence-and-horizontal-displacement",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Subsidence and horizontal displacement",
+    "text": "Subsidence and horizontal displacement\n\n\n\n\n\n\n\n\n\n\n\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 12.17, pp. 414)"
+  },
+  {
+    "objectID": "slides/Lecture19-ReservoirDepletion.html#leeville-case-study",
+    "href": "slides/Lecture19-ReservoirDepletion.html#leeville-case-study",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Leeville case study",
+    "text": "Leeville case study\n\n\n\n\n\n\n\n\\[\\quad\\]\n\n\n\n\n\n\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 12.18, pp. 416)\n\n\nShortcourse on Reservoir Geomechanics - John T. Foster - May 2023"
+  },
+  {
     "objectID": "slides/Lecture11-ConstitutiveModeling-Elasticity.html#kinematics-of-strain",
     "href": "slides/Lecture11-ConstitutiveModeling-Elasticity.html#kinematics-of-strain",
     "title": "Shortcourse on Reservoir Geomechanics",
@@ -565,6 +712,55 @@
     "title": "Shortcourse on Reservoir Geomechanics",
     "section": "Thermoporoelasticity",
     "text": "Thermoporoelasticity\n\\[\n\\boldsymbol{\\sigma} = \\mathbf{S} - \\alpha P_p \\mathbf{I} - K \\alpha_T \\Delta T \\mathbf{I}\n\\]\n\\(\\alpha_T\\) is coefficient of thermal expansion/(contraction)\n\n\nShortcourse on Reservoir Geomechanics - John T. Foster - May 2023"
+  },
+  {
+    "objectID": "slides/Lecture18-GeomechanicalCaseStudy.html#to-case-or-not-to-case",
+    "href": "slides/Lecture18-GeomechanicalCaseStudy.html#to-case-or-not-to-case",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "To case or not to case?",
+    "text": "To case or not to case?\n\n\n\n\n \\(\\quad \\quad\\)\n\n\n\n\n\n\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 10.21, pp. 334)"
+  },
+  {
+    "objectID": "slides/Lecture18-GeomechanicalCaseStudy.html#emperical-strength-model-from-cores",
+    "href": "slides/Lecture18-GeomechanicalCaseStudy.html#emperical-strength-model-from-cores",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Emperical strength model from cores",
+    "text": "Emperical strength model from cores\n\\[\nC_0 = 1.745 \\times 10^{-9} \\rho V_p^2 -21 \\mbox{MPa}\n\\]\n© Cambridge University Press Zoback, Reservoir Geomechanics (Table 4.1, Eq. 5, pp. 113)"
+  },
+  {
+    "objectID": "slides/Lecture18-GeomechanicalCaseStudy.html#pressure-drawdown-and-sand-production",
+    "href": "slides/Lecture18-GeomechanicalCaseStudy.html#pressure-drawdown-and-sand-production",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Pressure drawdown and sand production",
+    "text": "Pressure drawdown and sand production\n\n\n\n\n\\(\\quad \\quad\\)\n\n\n\n\n\n\n\n500 psi slow drawdown\n\n\n\\(\\sim 60^\\circ\\) breakouts\n\n\n\n\n\\(\\quad \\quad\\)\n\n\n\n\n\n\n1000 psi rapid drawdown\n\n\n\\(&gt; 90^\\circ\\) breakouts\n\n\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 10.22, pp. 335)"
+  },
+  {
+    "objectID": "slides/Lecture18-GeomechanicalCaseStudy.html#preventing-sand-production-by-limiting-production-rate",
+    "href": "slides/Lecture18-GeomechanicalCaseStudy.html#preventing-sand-production-by-limiting-production-rate",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Preventing sand production by limiting production rate",
+    "text": "Preventing sand production by limiting production rate\n\n\n\n\n\\(\\quad \\quad\\)\n\n\n\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 10.23, pp. 336)"
+  },
+  {
+    "objectID": "slides/Lecture18-GeomechanicalCaseStudy.html#preventing-sand-production-with-perforation-orientation",
+    "href": "slides/Lecture18-GeomechanicalCaseStudy.html#preventing-sand-production-with-perforation-orientation",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Preventing sand production with perforation orientation",
+    "text": "Preventing sand production with perforation orientation\n\n\n\n\n\\(\\quad \\quad\\)\n\n\n\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 10.24a, pp. 337)"
+  },
+  {
+    "objectID": "slides/Lecture18-GeomechanicalCaseStudy.html#section",
+    "href": "slides/Lecture18-GeomechanicalCaseStudy.html#section",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "",
+    "text": "\\(\\quad \\quad\\)\n\n\n\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 10.25, pp. 338)"
+  },
+  {
+    "objectID": "slides/Lecture18-GeomechanicalCaseStudy.html#preventing-sand-production-with-azimuth-changes",
+    "href": "slides/Lecture18-GeomechanicalCaseStudy.html#preventing-sand-production-with-azimuth-changes",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Preventing sand production with azimuth changes",
+    "text": "Preventing sand production with azimuth changes\nConsidering fixed horizontal perforations\n\n\n\n\n\\(\\quad \\quad\\)\n\n\n\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 10.24b, pp. 337)\n\n\nShortcourse on Reservoir Geomechanics - John T. Foster - May 2023"
   },
   {
     "objectID": "slides/Lecture5-PrincipleStressAndDirectionsInEarth.html#recall-stress-tensor",
@@ -971,6 +1167,69 @@
     "title": "Shortcourse on Reservoir Geomechanics",
     "section": "Matrix transformation",
     "text": "Matrix transformation\n\\[\n\\mathbf{S}' = \\mathbf{Q}^{-1} \\mathbf{S} \\mathbf{Q}\n\\]\n\nIf \\(\\mathbf{Q}\\) is chosen such that its columns are eigenvectors of \\(\\mathbf{S}\\), then \\(\\mathbf{S}'\\) will be diagonal with its entries cooresponding to the eigenvalues \\(\\mathbf{S}\\) (and \\(\\mathbf{S}'\\)).\n\n\n\nShortcourse on Reservoir Geomechanics - John T. Foster - May 2023"
+  },
+  {
+    "objectID": "slides/Lecture17-DiagnosticTestingToDetermineInSituStress.html#hydraulic-fracturing-to-determine-s_3",
+    "href": "slides/Lecture17-DiagnosticTestingToDetermineInSituStress.html#hydraulic-fracturing-to-determine-s_3",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Hydraulic fracturing to determine \\(S_3\\)",
+    "text": "Hydraulic fracturing to determine \\(S_3\\)"
+  },
+  {
+    "objectID": "slides/Lecture17-DiagnosticTestingToDetermineInSituStress.html#hydraulic-fracture-initiation-in-vertical-well",
+    "href": "slides/Lecture17-DiagnosticTestingToDetermineInSituStress.html#hydraulic-fracture-initiation-in-vertical-well",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Hydraulic fracture initiation in vertical well",
+    "text": "Hydraulic fracture initiation in vertical well\n\\[\n\\sigma_{\\theta \\theta}^{min} = 3 S_{hmin} - S_{Hmax} - 2 P_p - \\Delta P - \\sigma^{\\Delta T} = -T_0\n\\]"
+  },
+  {
+    "objectID": "slides/Lecture17-DiagnosticTestingToDetermineInSituStress.html#leakoff-test-mini-frac-fit-xlot",
+    "href": "slides/Lecture17-DiagnosticTestingToDetermineInSituStress.html#leakoff-test-mini-frac-fit-xlot",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Leakoff test (mini-frac, FIT, XLOT)",
+    "text": "Leakoff test (mini-frac, FIT, XLOT)\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 7.2, pp. 211)\nMust add the pressure in the wellbore due to the column of wellbore fluid. Always preferable to measure pressure downhole.\nFBP - unstable fracture growth away from wellbore FPP - should be close to LOP and min. principle stress in absencse of excess fluid resistance from high viscosity fluids or turbulent flow."
+  },
+  {
+    "objectID": "slides/Lecture17-DiagnosticTestingToDetermineInSituStress.html#s_3-from-instantaneous-shut-in-pressure",
+    "href": "slides/Lecture17-DiagnosticTestingToDetermineInSituStress.html#s_3-from-instantaneous-shut-in-pressure",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "\\(S_3\\) from instantaneous shut-in pressure",
+    "text": "\\(S_3\\) from instantaneous shut-in pressure\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 7.3, pp. 213)"
+  },
+  {
+    "objectID": "slides/Lecture17-DiagnosticTestingToDetermineInSituStress.html#section",
+    "href": "slides/Lecture17-DiagnosticTestingToDetermineInSituStress.html#section",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "",
+    "text": "© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 7.3, pp. 213)"
+  },
+  {
+    "objectID": "slides/Lecture17-DiagnosticTestingToDetermineInSituStress.html#step-rate-test",
+    "href": "slides/Lecture17-DiagnosticTestingToDetermineInSituStress.html#step-rate-test",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Step-rate test",
+    "text": "Step-rate test\n\n\n\n\n\n\n\n\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 7.5, pp. 216)"
+  },
+  {
+    "objectID": "slides/Lecture17-DiagnosticTestingToDetermineInSituStress.html#be-careful",
+    "href": "slides/Lecture17-DiagnosticTestingToDetermineInSituStress.html#be-careful",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Be careful!",
+    "text": "Be careful!\nWhen \\(S_3 \\sim S_v\\) integrate density logs\n\n\n\n\n\n\n\n\n\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 7.4, pp. 214)"
+  },
+  {
+    "objectID": "slides/Lecture17-DiagnosticTestingToDetermineInSituStress.html#what-about-s_hmax",
+    "href": "slides/Lecture17-DiagnosticTestingToDetermineInSituStress.html#what-about-s_hmax",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "What about \\(S_{Hmax}\\)?",
+    "text": "What about \\(S_{Hmax}\\)?\n\\[\n\\Delta P = P_b - P_p\n\\]\n\nso\n\\[\nS_{Hmax} = 3 S_{hmin} - P_b - P_p + T_0\n\\]\n\n\nor\n\\[\nS_{Hmax} = 3 S_{hmin} - P_b(T=0) - P_p\n\\]"
+  },
+  {
+    "objectID": "slides/Lecture17-DiagnosticTestingToDetermineInSituStress.html#does-it-work",
+    "href": "slides/Lecture17-DiagnosticTestingToDetermineInSituStress.html#does-it-work",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Does it work?",
+    "text": "Does it work?\nConsider a system with compressibility \\(\\beta_s\\)\n\\[\n\\beta_s = \\frac{\\Delta V_s}{V_s} \\frac{1}{\\Delta P}\n\\]\n\n\\[\n\\Delta P = \\frac{1}{\\beta_s V_s} \\Delta V_s\n\\]\n\n\n\\[\n\\frac{\\Delta P}{\\Delta t} = \\frac{1}{\\beta_s V_s} \\frac{\\Delta V_s}{\\Delta t}\n\\]\n\n\nAnswer: Not very well.\n\n\n\nShortcourse on Reservoir Geomechanics - John T. Foster - May 2023"
   },
   {
     "objectID": "slides/Lecture7-EstimatingVerticalStress.html#in-offshore-areas",
