@@ -50,22 +50,6 @@ $$
 
 ---
 
-## Example: Reverse faulting {.smaller}
-
-<table style="border: hidden; " align="center">
-  <tr>
-    <td style="border: hidden; text-align: center">$$\mathbf{S} = \begin{bmatrix} 30 & 0 & 0 \\ 0 & 25 & 0 \\ 0 & 0 & 20 \end{bmatrix}$$</td>
-    <td style="border: hidden; text-align: center">$$\quad\quad\quad$$</td>
-    <td style="border: hidden; text-align: center">\begin{align} \alpha &= 90^{\circ} & \mbox{Azimuth of } S_{Hmax} \\ \beta &= 0^{\circ} & S_1 = S_{Hmax} \\ \gamma &= 0^{\circ} & S_2 = S_{hmin} \end{align}</td>
-  </tr>
-</table>
-
-Find the minimum and maximum tangential stress for an open hole well that is oriented $20^\circ$ from North and deviated $20^{\circ}$ from vertical at a depth of $2$ km.  Assume a hydrostatic pore pressure gradient, a Poisson ration of $0.2$, and a balanced drilling operation.
-
-&copy; Cambridge University Press [Zoback, *Reservoir Geomechanics*](http://www.amazon.com/Reservoir-Geomechanics-Paperback-Author-Zoback/dp/B00EFZ88EQ/ref=sr_1_2?ie=UTF8&qid=1422942834&sr=8-2&keywords=zoback+geomechanics) (Fig. 8.1a, pp. 237)
-
----
-
 ## Lower hemisphere projection
 
 
