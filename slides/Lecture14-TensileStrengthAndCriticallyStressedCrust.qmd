@@ -1,10 +1,15 @@
 ## Tensile Strength of Rocks
 
+::: {.fragment}
 - Relatively unimportant!
+:::
+
+::: {.fragment}
 - Reasons:
   - Tensile strength is low compared to compressive strength.
   - When a large enough volume of rock is considered, flaws are bound to exist making the tensile strength near zero.
   - *In situ* stress at depth is never tensile.
+:::
 
 ## Opening mode fracture (Mode I)
 
