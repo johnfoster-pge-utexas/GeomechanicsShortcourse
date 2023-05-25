@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Shortcourse on Reservoir Geomechanics",
     "section": "",
-    "text": "Intructor\nName: John T. Foster, PhD\nEmail: john.foster@utexas.edu\nCourse Description This is a short course on petroleum reservoir geomechanics. The primary emphasis in this course is basic stress and strain analysis; pore pressure and in situ stress estimation and measurement; deformation mechanisms in rock; rock fracture description and analysis; wellbore stresses and failure; wellbore stability analysis; fault stability analysis; depletion-induced reservoir deformation; and hydraulic fracturing.\nUseful References\n\nReservoir Geomechanics. Zoback. 2007.\nFundamentals of Rock Mechanics. Jaeger, Cook, and Zimmerman. 2007.\n\nExercises Coding Environment\nThere will some optional coding exercises in Python in this course. If you’d like to follow along and run live code, you’ll need to have a Github account. If you don’t have one already, you can register for free here. Once you have an account, you should be able to click the link below to access a live coding environment for the exercises:\n\n\n\n\n\nLectures\nLecture 1 - Introduction\nLecture 2 - Introduction to Stuctural Geology\nLecture 3 - Linear Algebra\nLecture 4 - Introduction to Stress\nLecture 5 - Principle Stress And Directions In Earth\nLecture 6 - Anderson Fault Classification\nLecture 7 - Estimating Vertical Stress\nLecture 8 - Effective Stress and Stress Magnitudes at Depth\nLecture 9 - Mechanisms of Overpressure\nLecture 10 - Faults and Fractures at Depth\nLecture 11 - Constitutive Modeling - Elastiticty\nLecture 12 - Constitutive Modeling - Poroelastiticty\nLecture 13 - Constitutive Modeling - Inelasticity\nLecture 14 - Tensile Strength and Critically Stressed Crust\nLecture 15 - Compressive and Tensile Failure in Vertical Wells\nLecture 16 - Stress Resolution in Deviated Wells\nLecture 17 - Diagnostic Testing To Determine In Situ Stress\nLecture 18 - Geomechanical Case Study and Sand Production\nLecture 19 - Reservoir Depletion"
+    "text": "Intructor\nName: John T. Foster, PhD\nEmail: john.foster@utexas.edu\nCourse Description This is a short course on petroleum reservoir geomechanics. The primary emphasis in this course is basic stress and strain analysis; pore pressure and in situ stress estimation and measurement; deformation mechanisms in rock; rock fracture description and analysis; wellbore stresses and failure; wellbore stability analysis; fault stability analysis; depletion-induced reservoir deformation; and hydraulic fracturing.\nUseful References\n\nReservoir Geomechanics. Zoback. 2007.\nFundamentals of Rock Mechanics. Jaeger, Cook, and Zimmerman. 2007.\n\nExercises Coding Environment\nThere will some optional coding exercises in Python in this course. If you’d like to follow along and run live code, you’ll need to have a Github account. If you don’t have one already, you can register for free here. Once you have an account, you should be able to click the link below to access a live coding environment for the exercises:\n\n\n\n\n\nLectures\nLecture 1 - Introduction\nLecture 2 - Introduction to Stuctural Geology\nLecture 3 - Linear Algebra\nLecture 4 - Introduction to Stress\nLecture 5 - Principle Stress And Directions In Earth\nLecture 6 - Anderson Fault Classification\nLecture 7 - Estimating Vertical Stress\nLecture 8 - Effective Stress and Stress Magnitudes at Depth\nLecture 9 - Mechanisms of Overpressure\nLecture 10 - Faults and Fractures at Depth\nLecture 11 - Constitutive Modeling - Elastiticty\nLecture 12 - Constitutive Modeling - Poroelastiticty\nLecture 13 - Constitutive Modeling - Inelasticity\nLecture 14 - Tensile Strength and Critically Stressed Crust\nLecture 15 - Compressive and Tensile Failure in Vertical Wells\nLecture 16 - Stress Resolution in Deviated Wells\nLecture 17 - Diagnostic Testing To Determine In Situ Stress\nLecture 18 - Geomechanical Case Study and Sand Production\nLecture 19 - Reservoir Depletion\nLecture 20 - Hydraulic Fracture Modeling"
   },
   {
     "objectID": "slides/Lecture15-CompressiveAndTensileFailureInVerticalWells.html#stress-around-circular-cavity",
@@ -1461,5 +1461,68 @@
     "title": "Shortcourse on Reservoir Geomechanics",
     "section": "Kayenta",
     "text": "Kayenta\n\n\nR.M. Brannon, A.F. Fossum, and O.E. Strack: Kayenta: Theory and User’s Guide.Tech. rep. Sandia National Laboratories, 2009.\nShortcourse on Reservoir Geomechanics - John T. Foster - May 2023"
+  },
+  {
+    "objectID": "slides/Lecture20-HydraulicFractureModeling.html#hydraulic-fracturing-modeling",
+    "href": "slides/Lecture20-HydraulicFractureModeling.html#hydraulic-fracturing-modeling",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Hydraulic Fracturing Modeling",
+    "text": "Hydraulic Fracturing Modeling"
+  },
+  {
+    "objectID": "slides/Lecture20-HydraulicFractureModeling.html#analytical-models",
+    "href": "slides/Lecture20-HydraulicFractureModeling.html#analytical-models",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Analytical Models",
+    "text": "Analytical Models\nAnalytical hydraulic fracture models use\n\nFracture geometry assumptions\nConservation of mass in fracture\nElasticty theory for fracture opening\nCrack tip energetics"
+  },
+  {
+    "objectID": "slides/Lecture20-HydraulicFractureModeling.html#perkins-kern-nordgren-pkn",
+    "href": "slides/Lecture20-HydraulicFractureModeling.html#perkins-kern-nordgren-pkn",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Perkins-Kern-Nordgren (PKN)",
+    "text": "Perkins-Kern-Nordgren (PKN)\n\nSchematic view of the PKN model Image Source"
+  },
+  {
+    "objectID": "slides/Lecture20-HydraulicFractureModeling.html#pkn-assumptions",
+    "href": "slides/Lecture20-HydraulicFractureModeling.html#pkn-assumptions",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "PKN Assumptions",
+    "text": "PKN Assumptions\n\nThe formation toughness \\(K_{Ic}\\) can be neglected because the energy required to propagate in the fracture is significantly less than that required to allow fluid flow along the fracture\nThe fluid is injected with a constant injection volumetric rate \\(Q_0\\) from a fixed line source at the center of the fracture into two wings\nThe injected fluid is incompressible Newtonian laminar unidirectional flow characterized with viscosity \\(\\mu\\) and the gravity effect is excluded\nConstant flow rate \\(q\\) along the fracture (No storage effect or fluid leakoff)\nThe net pressure is zero at the tip"
+  },
+  {
+    "objectID": "slides/Lecture20-HydraulicFractureModeling.html#pkn-equations",
+    "href": "slides/Lecture20-HydraulicFractureModeling.html#pkn-equations",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "PKN Equations",
+    "text": "PKN Equations\n\\[\\begin{align}\nL &= \\frac{Q_0}{2 \\pi C_L H} t^{\\frac{1}{2}} \\\\\nw_o &= \\left(\\frac{Q_0^2 \\mu}{\\pi^3 E^{\\prime} C_L H}\\right)^{\\frac{1}{4}} t^{\\frac{1}{8}} \\\\\np_o &= 2 \\left( \\frac{E^{\\prime 3} Q_o^2 \\mu}{\\pi^3 C_L H^6}\\right)^{\\frac{1}{4}} t^{\\frac{1}{8}}\n\\end{align}\\]"
+  },
+  {
+    "objectID": "slides/Lecture20-HydraulicFractureModeling.html#kristianovich-geertsma-de-klerk-kgd",
+    "href": "slides/Lecture20-HydraulicFractureModeling.html#kristianovich-geertsma-de-klerk-kgd",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Kristianovich-Geertsma-de Klerk (KGD)",
+    "text": "Kristianovich-Geertsma-de Klerk (KGD)\n\n\n\n\n\n\n\nImage Source\n\n\n\n\n\n\n\nImage Source\n\n\n\n\nFigure 1: Schematic view of the KGD radial model and crack tip geometry"
+  },
+  {
+    "objectID": "slides/Lecture20-HydraulicFractureModeling.html#kgd-assumptions",
+    "href": "slides/Lecture20-HydraulicFractureModeling.html#kgd-assumptions",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "KGD Assumptions",
+    "text": "KGD Assumptions\n\nThe formation is an infinite, homogeneous, isotropic, linear elastic medium characterized by Young’s modulus \\(E\\), Poisson’s ratio \\(\\nu\\), and toughness \\(K_{Ic}\\).\nThe fracture is assumed to be radially symmetric and generated from a point-source at its center. The periphery of the fracture is circular (penny-shaped), as shown in Figure 1.\nThe fracturing fluid is Newtonian with viscosity \\(\\mu\\) . It is injected with a constant volumetric flow rate \\(Q_o\\), and its flow is laminar. Gravitational effects are not taken into account.\nThe Barenblatt’s tip condition applies for the fracture."
+  },
+  {
+    "objectID": "slides/Lecture20-HydraulicFractureModeling.html#kgd-equations-no-leakoff",
+    "href": "slides/Lecture20-HydraulicFractureModeling.html#kgd-equations-no-leakoff",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "KGD Equations (no leakoff)",
+    "text": "KGD Equations (no leakoff)\n\\[\\begin{align}\nR &= \\left( \\frac{3 E^{\\prime} Q_0 t}{8 \\sqrt{\\pi} K_{Ic}}\\right)^{0.4} \\\\\np_0 &= \\frac{\\sqrt{\\pi} K_{Ic}}{2 \\sqrt{R}} \\\\\nw_0 &= \\frac{8 p_0 R}{\\pi E^{\\prime}}\n\\end{align}\\]"
+  },
+  {
+    "objectID": "slides/Lecture20-HydraulicFractureModeling.html#computational-hf-models",
+    "href": "slides/Lecture20-HydraulicFractureModeling.html#computational-hf-models",
+    "title": "Shortcourse on Reservoir Geomechanics",
+    "section": "Computational HF Models",
+    "text": "Computational HF Models\n\nDisplacement discontinuoutiy method (DDM)\nCohesive Zone Method\nGeneralized FEM methods\nPhase-field fracture methods\nPerdynamics\n\n\n\nShortcourse on Reservoir Geomechanics - John T. Foster - May 2023"
   }
 ]
