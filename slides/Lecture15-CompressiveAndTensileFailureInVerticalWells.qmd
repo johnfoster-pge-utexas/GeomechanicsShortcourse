@@ -344,9 +344,6 @@ $$
 
 ## Comprehensive model {.smaller .scrollable}
 
-### i.e. why your studying geomechanics
-
-
 <table style="border: hidden; " align="center">
   <tr style="background-color: transparent">
     <td style="border: hidden; text-align: center"><img src="img/well_design1.png" width=230></td>
