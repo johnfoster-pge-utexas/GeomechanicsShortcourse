@@ -59,3 +59,5 @@ There will some optional coding exercises in Python in this course.  If you'd li
 
 [Lecture 19 - Reservoir Depletion](./slides/Lecture19-ReservoirDepletion.qmd)
 
+[Lecture 20 - Hydraulic Fracture Modeling](./slides/Lecture20-HydraulicFractureModeling.qmd)
+
