@@ -1064,13 +1064,6 @@
     "text": "Principal effective stresses around the wellbore\n\n\n\n\n\n\\(\\quad\\quad\\)\\[\\begin{align}\\sigma_{t\\mbox{max}} &=\\frac{1}{2}\\left(\\sigma_{zz} + \\sigma_{\\theta\\theta} + \\sqrt{(\\sigma_{zz} - \\sigma_{\\theta\\theta})^2 + 4 \\tau_{\\theta z}^2}\\right) \\\\\n    \\sigma_{t\\mbox{min}} &=\\frac{1}{2}\\left(\\sigma_{zz} + \\sigma_{\\theta\\theta} - \\sqrt{(\\sigma_{zz} - \\sigma_{\\theta\\theta})^2 + 4 \\tau_{\\theta z}^2}\\right)\n    \\end{align}\\]"
   },
   {
-    "objectID": "slides/Lecture16-StressResolutionInDeviatedWells.html#example-reverse-faulting",
-    "href": "slides/Lecture16-StressResolutionInDeviatedWells.html#example-reverse-faulting",
-    "title": "Shortcourse on Reservoir Geomechanics",
-    "section": "Example: Reverse faulting",
-    "text": "Example: Reverse faulting\n\n\n\n\n\\[\\mathbf{S} = \\begin{bmatrix} 30 & 0 & 0 \\\\ 0 & 25 & 0 \\\\ 0 & 0 & 20 \\end{bmatrix}\\]\n\n\n\\[\\quad\\quad\\quad\\]\n\n\n\\[\\begin{align} \\alpha &= 90^{\\circ} & \\mbox{Azimuth of } S_{Hmax} \\\\ \\beta &= 0^{\\circ} & S_1 = S_{Hmax} \\\\ \\gamma &= 0^{\\circ} & S_2 = S_{hmin} \\end{align}\\]\n\n\n\n\nFind the minimum and maximum tangential stress for an open hole well that is oriented \\(20^\\circ\\) from North and deviated \\(20^{\\circ}\\) from vertical at a depth of \\(2\\) km. Assume a hydrostatic pore pressure gradient, a Poisson ration of \\(0.2\\), and a balanced drilling operation.\n© Cambridge University Press Zoback, Reservoir Geomechanics (Fig. 8.1a, pp. 237)"
-  },
-  {
     "objectID": "slides/Lecture16-StressResolutionInDeviatedWells.html#lower-hemisphere-projection",
     "href": "slides/Lecture16-StressResolutionInDeviatedWells.html#lower-hemisphere-projection",
     "title": "Shortcourse on Reservoir Geomechanics",
