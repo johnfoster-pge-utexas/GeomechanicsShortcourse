@@ -1467,7 +1467,7 @@
     "href": "slides/Lecture20-HydraulicFractureModeling.html#analytical-models",
     "title": "Shortcourse on Reservoir Geomechanics",
     "section": "Analytical Models",
-    "text": "Analytical Models\nAnalytical hydraulic fracture models use\n\nFracture geometry assumptions\nConservation of mass in fracture\nElasticty theory for fracture opening\nCrack tip energetics"
+    "text": "Analytical Models\nAnalytical hydraulic fracture models use\n\nFracture geometry assumptions\nConservation of mass in fracture\nElasticity theory for fracture opening\nCrack tip energetics"
   },
   {
     "objectID": "slides/Lecture20-HydraulicFractureModeling.html#perkins-kern-nordgren-pkn",
@@ -1516,6 +1516,6 @@
     "href": "slides/Lecture20-HydraulicFractureModeling.html#computational-hf-models",
     "title": "Shortcourse on Reservoir Geomechanics",
     "section": "Computational HF Models",
-    "text": "Computational HF Models\n\nDisplacement discontinuoutiy method (DDM)\nCohesive Zone Method\nGeneralized FEM methods\nPhase-field fracture methods\nPerdynamics\n\n\n\nShortcourse on Reservoir Geomechanics - John T. Foster - May 2023"
+    "text": "Computational HF Models\n\nDisplacement discontinuity method (DDM)\nCohesive Zone Method\nGeneralized FEM methods\nPhase-field fracture methods\nPeridynamics\n\n\n\nShortcourse on Reservoir Geomechanics - John T. Foster - May 2023"
   }
 ]
