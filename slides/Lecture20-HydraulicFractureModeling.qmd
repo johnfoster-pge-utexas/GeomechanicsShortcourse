@@ -10,7 +10,7 @@ Analytical hydraulic fracture models use
 
 - Fracture geometry assumptions
 - Conservation of mass in fracture
-- Elasticty theory for fracture opening
+- Elasticity theory for fracture opening
 - Crack tip energetics
 
 ---
@@ -70,8 +70,8 @@ w_0 &= \frac{8 p_0 R}{\pi E^{\prime}}
 
 ## Computational HF Models
 
-- Displacement discontinuoutiy method (DDM)
+- Displacement discontinuity method (DDM)
 - Cohesive Zone Method
 - Generalized FEM methods
 - Phase-field fracture methods
-- Perdynamics
+- Peridynamics
